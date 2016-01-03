@@ -1,9 +1,7 @@
 #!/usr/bin/env ruby
+require 'farm_scraper'
 require 'scrapers'
 require 'csv'
-
-ontario_scraper = Scrapers::OntarioFarmFresh.new()
-ontario_farms = ontario_scraper.run()
 
 def write_csv(file, farms)
 	CSV.open(file, 'wb') do |csv|
@@ -42,4 +40,33 @@ def write_csv(file, farms)
 	end
 end
 
-write_csv('data.csv', ontario_farms)
+MSG = <<END
+Farm Scraper v#{FarmScraper::VERSION}
+By Jerry Zhou (http://jerryzhou.net/)
+
+# Commands:
+scrape [scraper] [output_file]: Scrapes using specified scraper
+
+# Avaliable Scrapers:
+ontariofarmfresh
+
+END
+
+command = ARGV.shift
+case command
+when "scrape"
+	scraper_name = ARGV.shift
+	file = ARGV.shift || 'data.csv'
+	case scraper_name
+	when "ontariofarmfresh"
+		ontario_scraper = Scrapers::OntarioFarmFresh.new()
+		ontario_farms = ontario_scraper.run()
+		write_csv('data.csv', ontario_farms)
+	else
+		puts "No such scraper"
+	end
+  hist.output_history(days_ago)
+else
+  puts MSG
+end
+
