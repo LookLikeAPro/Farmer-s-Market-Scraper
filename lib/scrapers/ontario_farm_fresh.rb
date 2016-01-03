@@ -36,7 +36,21 @@ module Scrapers
 		def scrape_farm(link)
 			doc = Nokogiri::HTML(open(link))
 			doc_body = doc.css('#main #content')[0]
-			farm = {}
+			farm = {
+				'name' => '',
+				'street' => '',
+				'city' => '',
+				'province' => '',
+				'country' => '',
+				'address_dump' => '',
+				'postal_code' => '',
+				'phone' => '',
+				'hours' => '',
+				'link' => '',
+				'products' => '',
+				'products_grown' => '',
+				'products_pick' => ''
+			}
 			farm['name'] = doc_body.css('.elocator_address h1')[0].content.strip
 			farm['street'] = doc_body.css('.elocator_address h2')[0].content.strip
 			begin

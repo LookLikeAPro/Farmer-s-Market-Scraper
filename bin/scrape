@@ -1,6 +1,41 @@
 #!/usr/bin/env ruby
 require 'scrapers'
+require 'csv'
 
-scraper = Scrapers::OntarioFarmFresh.new()
+ontario_scraper = Scrapers::OntarioFarmFresh.new()
+ontario_farms = ontario_scraper.run()
 
-scraper.run()
+CSV.open('data.csv', 'wb') do |csv|
+  csv << [
+  	'name',
+  	'street',
+	  'city',
+	  'province',
+	  'country',
+	  'address_dump',
+	  'postal_code',
+	  'phone',
+	  'hours',
+	  'link',
+	  'products',
+	  'products_grown',
+	  'products_pick'
+	]
+  ontario_farms.each do |farm|
+  	csv << [
+  		farm['name'],
+  		farm['street'],
+  		farm['city'],
+  		farm['province'],
+  		farm['country'],
+  		farm['address_dump'],
+  		farm['postal_code'],
+  		farm['phone'],
+  		farm['hours'],
+  		farm['link'],
+  		farm['products'],
+  		farm['products_grown'],
+  		farm['products_pick']
+  	]
+  end
+end
