@@ -3,6 +3,7 @@ require "bundler/setup"
 require "farm_scraper"
 require "scrapers"
 require "geolocation"
+require "merge_csv"
 require "csv"
 
 def write_csv(file, farms)
@@ -20,17 +21,7 @@ def write_csv(file, farms)
 			"link",
 			"products",
 			"products_grown",
-			"products_pick",
-			"formatted_address",
-			"street_number",
-			"route",
-			"locality",
-			"administrative_area_level_2",
-			"administrative_area_level_1",
-			"country",
-			"postal_code_prefix",
-			"lat",
-			"lng",
+			"products_pick"
 		]
 		farms.each do |farm|
 			csv << [
@@ -82,6 +73,12 @@ when "geo"
 	file = "data/"+ARGV.shift || "data/data.csv"
 	geolocator = Geolocation::Geolocator.new()
 	geolocator.run(file)
+when "merge"
+	file_name = ARGV.shift
+	file1_path = "data/"+file_name+"_DETAIL.csv"
+	file2_path = "data/"+file_name+"_GEO.csv"
+	product_path = "data/"+file_name+".csv"
+	MergeCsv.run(product_path, file1_path, file2_path)
 else
 	puts MSG
 end

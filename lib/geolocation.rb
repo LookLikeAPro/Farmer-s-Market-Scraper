@@ -31,6 +31,7 @@ module Geolocation
 				counter = counter+1
 			end
 			write_farms(file.split(".")[0]+"_GEO."+file.split(".")[1])
+			
 		end
 		def write_farms(file)
 			CSV.open(file, "wb") do |csv|

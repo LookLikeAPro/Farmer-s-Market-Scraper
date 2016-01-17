@@ -1,297 +1,593 @@
-name,street,city,province,country,address_dump,postal_code,phone,hours,link,products,products_grown,products_pick
-Allison's Farm Market,"RR 2, 10636 8th Line",Georgetown,Ontario,Canada,,L7G 4S5,905-873-9810,"July 1 - Oct 31, 10 am - 6 pm",,"apples, pumpkins, raspberries, strawberries",,
-Andrew's Scenic Acres & Scotch Block Winery,9365 10th Sideroad,Milton,Ontario,Canada,,L9T 2X9,905-878-5807,Nov 1 - Apr 30: Sat & Sun 11-5; May 1 - Aug 31: 8-6; Sept 1 - Oct 31: 9-6,http://www.andrewsscenicacres.com,"asparagus, blueberries, pumpkins, raspberries, strawberries, wine","asparagus, blueberries, pumpkins, raspberries, strawberries","asparagus, blueberries, pumpkins, raspberries, strawberries"
-Archibald Orchards & Estate Winery,"RR 5, 6275 Liberty St.N.",Bowmanville,Ontario,Canada,,L1C 3K6,905-263-2396,March to June - Thursday to Sunday from 10 - 5; July & August - Daily 10 - 5; September to December - Daily 9 - 6,http://www.archibaldswinery.com,"apples, giftware, preserves, wine",apples,apples
-Three Roads Farms Ltd.,2415 County Road #2,Peterborough,Ontario,Canada,,K9J 6X9,705-295-6580,Monday - Saturday: 9am - 6pm; Sunday: 10am - 6pm,http://www.threeroadsfarms.com,,,
-Matz Fruit Barn,Norfolk 6 525 Hwy 6,Port Dover,,,,,519-583-1688,8am - 7:30pm,http://matzfruitbarn.com,"gourds, pumpkins, squash, vegetables","apples, apricots, cherries, cucumbers, gourds, muskmelons, peaches, pears, peppers, plums, pumpkins, squash, tomatoes, watermelons",
-Belluz Farms,752 Candy Mountain Drive,Slate River,Ontario,Canada,,P7J 0C2,807-475-5181,July - October. Call for hours 807-475-5181,http://www.belluzfarms.on.ca,"beans, cucumbers, gooseberries, melons, peas, pumpkins, raspberries, squash, strawberries","beans, cucumbers, gooseberries, peas, raspberries, strawberries",Maze
-Bennett's Apples & Cider,944 Garner Road East,Ancaster,Ontario,Canada,,L9G 3K9,905-648-6878,Year round. Closed Sundays & some holidays.,http://www.bennettsapples.ca,"apples, cider",pumpkins,pumpkins
-Bickles Orchard Park Farms,596633 County Road #59,Woodstock,Ontario,Canada,,N4S 7W1,519-462-2947,"Open Sept to April, Mon - Sat 9-5",,apples,apples,
-Blyleven Farms,"1028 Hutchson Rd., RR 1",Lowbanks,Ontario,Canada,,N0A 1K0,905-774-7391,,,"peppers, tomatoes",,
-Lincoln Line Orchards,"9764 Reg. Rd. 20, RR 1",Smithville,Ontario,Canada,,L0R 2A0,905-643-2205,August through June (11 months): Tues. - Fri: 8 am - 6 pm; Sat: 8 am - 5 pm,http://www.lincolnlineorchards.com,"apples, cider, peaches, pears, pies, plums",,
-Brooks Farms,"122 Ashworth Rd, RR 3",Mount Albert,Ontario,Canada,,L0G 1M0,905-473-3920,Call for hours,http://www.brooksfarms.com,"raspberries, strawberries","asparagus, pumpkins, squash, strawberries","apples, peas, pumpkins, raspberries, strawberries"
-Burnham Family Farm Market,7760 County Rd 2,Cobourg,,,,,905-373-4578,June 1 - Dec 23: 9 am - 6 pm,http://www.burnhamfamilyfarmmarket.ca,"pies, vegetables","apples, raspberries, strawberries","apples, raspberries, strawberries"
-Campbell's Orchard,1633 County Rd. #3,Rednersville,Ontario,Canada,,K0K 1L0,613-962-3751,"Summer & Fall : Open 7 days/week from mid June until Christmas, 9am til 5:30pm. We close at 5:00 pm in November. Winter & Spring : January til mid June: Open Thursday until Saturday 9am til 5pm, Sunday‰Ûªs we open at 10:00am., and closed Monday, Tuesday, Wednesday.",http://www.campbellsorchards.com,"eggs, fudge, pears, raspberries, strawberries","apples, beans, cabbage, cauliflower, corn, cucumbers, melons, onions, pears, peas, peppers, pumpkins, raspberries, rutabaga, squash, strawberries, tomatoes","apples, beans, peas, pumpkins, strawberries, tomatoes"
-Lakeshore Farms,"475 Main St., RR 1",Wellington,Ontario,Canada,,K0K 3L0,613-399-3152,April - December: Daily 8 am - 6 pm,,"potatoes, pumpkins, strawberries, tomatoes, vegetables","pumpkins, strawberries, tomatoes","pumpkins, strawberries, tomatoes"
-Chappell Farms,617 Penetanguishene Rd.,Barrie,Ontario,Canada,,L4M 4Y8,705-721-1547,Call for hours,http://www.chappellfarms.ca,"pumpkins, vegetables",Maze,
-Thames River Melons Ltd.,765875 Township Road 5 RR 2,Innerkip,Ontario,Canada,,N0J 1M0,519-469-3636,June 15 - Oct 31: 8 am - 6 pm,,"asparagus, blueberries, cucumbers, onions, potatoes, pumpkins, raspberries, squash, strawberries, zucchini","asparagus, blueberries, cucumbers, onions, potatoes, pumpkins, raspberries, squash, strawberries, zucchini","blueberries, raspberries, strawberries"
-Chudleigh's Apple Farm,9528 Regional Road #25,Milton,Ontario,Canada,,L9T 2X7,905-878-2725,July 1st - Oct 31st Every Day- 7 days 10 - 5; Closed Nov. 1 - June 30,http://www.chudleighs.com,"apples, cider","apples, pumpkins","apples, pumpkins"
-Shearlea AcresFarm Market,"3826 Hwy 99, RR 2",Lynden,Ontario,Canada,,L0R 1T0,519-647-2415,Open Daily Year Round: Daily 10am - 6pm,,"beans, beets, broccoli, cabbage, carrots, cauliflower, garlic, gourds, lettuce, peas, perennials, potatoes, pumpkins, raspberries, rhubarb, spinach, squash, tomatoes, zucchini",pumpkins,
-T & K Ferri Orchards,496415 Grey Rd. 2,Clarksburg,Ontario,Canada,,N0H 1J0,647-627-8147,"Open from September to late November, Thursday to Sunday from 9:00 to 5:00",http://www.tkferriorchards.com,apples,apples,
-Leisure Farms,744 Quesnel Rd,Sturgeon Falls,Ontario,Canada,,P2B 2W3,705-753-0109,Call for hours & conditions,http://www.leisurefarms.ca,"preserves, strawberries","corn, pumpkins, raspberries, strawberries","corn, pumpkins, raspberries, strawberries"
-Parkside Farms,519 Parkside Dr.,Waterdown,Ontario,Canada,,L0R 2H1,905-689-4829,end of July - Oct 31; Daily 10 am - 6 pm,,pumpkins,pumpkins,vegetables
-Harvest Barn of Niagara,1822 Niagara Stone Rd.,Niagara-on-the-Lake,Ontario,Canada,,L0S 1J0,905-468-3224,Open Daily Year Round,http://www.harvestbarn.ca,vegetables,,
-Downey's Farm Market,"13682 Heart Lake Rd,",Caledon,Ontario,Canada,,L7C 2J5,905-838-2990,"Apr 30 - Dec 24, open daily from 8 am - 6 pm;",http://www.downeysfarm.com,"asparagus, pumpkins, raspberries, strawberries","apples, pumpkins, raspberries, strawberries",Maze
-Ego's Farm Market & Greenhouse,"596 Horseshoe Valley Rd.E, RR 4",Coldwater,Ontario,Canada,,L0K 1E0,705-326-9922,Daily 9 am - 6 pm; Strawberries: 8 am - 8 pm,http://www.egosgardencentre.com,"herbs, perennials","beans, peas, pumpkins, raspberries, strawberries, tomatoes","beans, peas, pumpkins, raspberries, strawberries, tomatoes"
-Ferguson Produce,"11026 Wellington Rd., RR 6",St. Thomas,Ontario,Canada,,N5P 3T1,,,,"pumpkins, raspberries, strawberries","pumpkins, strawberries","pumpkins, strawberries"
-Millers' Farm and Market,6158 Rideau Valley Drive,Manotick,Ontario,Canada,,K4M 1B3,613-692-2607 or 2380,daily July to the end of October: 9am - 6 pm; weekends: close at 5pm,http://www.millersfarmandmarket.ca,"apples, pumpkins, raspberries, squash","pumpkins, raspberries","currants, gooseberries, pumpkins, raspberries"
-Morrison Berries Country Market,"Hwy 86, RR 1",Lucknow,Ontario,Canada,,N0G 2H0,519-528-2765,Mon - Fri 8 am - 7 pm; Sat 8 am - 5 pm; Sunday 12pm -5pm depending on the season,http://www.morrisonberries.com,"pumpkins, strawberries","pumpkins, raspberries, strawberries","pumpkins, raspberries, strawberries"
-Valleyview Little Animal Farm,"4750 Fallowfield Rd.,",Nepean,Ontario,Canada,,K2J 4S4,,,http://www.valleyviewlittleanimalfarm.com,"corn, pumpkins","corn, pumpkins",Maze
-Apple Land Station,329 Richmond St.,Thorndale,Ontario,Canada,,N0M 2P0,519-268-7794,"Labour Day - Christmas: Daily. Jan - Jun: Mon,Thurs,Fri,Sat: 9-5",http://www.applelandstation.com,"apples, peaches, pumpkins, strawberries","apples, gourds, peaches, pumpkins, strawberries","apples, pumpkins, strawberries"
-Nauman's Farm,3250 Hessen Strasse,St. Clements,Ontario,Canada,,N0B 2M0,519-699-5524,July - Oct: Mon - Fri: 9 am - 6 pm; Sat - Sun: 9 am - 5 pm,http://www.naumanfarm.ca,"gourds, honey, pies, preserves, pumpkins, raspberries, rhubarb, squash, strawberries","pumpkins, raspberries, rhubarb, squash, strawberries","pumpkins, raspberries, strawberries"
-Bayfield Berry Farm,"77697 Orchard Line, RR 1",Bayfield,Ontario,Canada,,N0M 1G0,,,http://www.bayfieldberryfarm.on.ca,preserves,"raspberries, strawberries",
-Nith Valley Apiaries,1041 Christner Road,New Hamburg,Ontario,Canada,,N3A 3K7,519-662-3165,"Open Monday to Friday 9-5, Saturday 9 to noon, closed Sundays.",,"eggs, honey",honey,
-Vito's Fresh Fruit,"950 Creek Rd., RR 4",Niagara-on-the-Lake,Ontario,Canada,,L0S 1J0,,,,"peaches, plums",,
-Parks Blueberries,"14815 Longwoods Rd. N., RR 3",Bothwell,Ontario,Canada,,N0P 1C0,519-692-3210,May 1 - Dec 24. Daily 10 am - 6 pm,http://www.parksblueberries.com,blueberries,blueberries,Maze
-Brantwood Farm,251 Powerline Rd.,Brantford,Ontario,Canada,,N3T 5L8,519-759-4383,Mon-Sat; 9 am - 7:00 pm; Sun: 10 am - 6 pm,http://www.brantwoodfarms.com,vegetables,"apples, asparagus, beans, peas, pumpkins, raspberries, strawberries, tomatoes","apples, beans, pumpkins, raspberries, strawberries, tomatoes"
-The Cider Keg,"1398 Vittoria Rd., RR 1",Vittoria,Ontario,Canada,,N0E 1W0,,,http://www.ciderkeg.com,"pumpkins, strawberries, tomatoes","pumpkins, strawberries, tomatoes","pumpkins, strawberries, tomatoes"
-Pingle's Farm Market,"1805 Taunton Rd. E., RR 1",Hampton,Ontario,Canada,,L0B 1J0,,,http://www.pinglesfarmmarket.com,pies,"apples, pumpkins, raspberries, strawberries","apples, pumpkins, raspberries, strawberries"
-Proulx Sugarbush & Berry Farm,1865 O'Toole Rd.,Ottawa,Ontario,Canada,,K4C 1N2,613-833-2417,March 1st to Oct. 31st. Call for hours.,http://www.proulxberryfarm.com,"beans, beets, blueberries, broccoli, carrots, cauliflower, corn, cucumbers, onions, peppers, pumpkins, raspberries, rhubarb, squash, strawberries","beans, beets, blueberries, broccoli, carrots, cauliflower, corn, cucumbers, onions, peppers, pumpkins, raspberries, rhubarb, squash, strawberries, tomatoes","pumpkins, raspberries, squash, strawberries"
-Puddicombe Farms,1468 #8 Hwy.,Winona,Ontario,Canada,,L8E 5K9,905-643-1015,"Winery: Mon-Fri: 9-5; Sat & Sun 10-4; (January - April). Open 7 days a week May - December,9-5. Market: May 1 -June & Nov. -Dec: Wed-Sunday: 9-5; July-October: daily 9-5",http://www.puddicombefarms.com,"cherries, peaches","apples, blueberries, grapes, nectarines, peaches, pears, plums, pumpkins, raspberries","apples, pears, pumpkins"
-McCully's Hill Farm Market,"4074 Perth Line 9, RR 2",St. Mary's,Ontario,Canada,,N4X 1C5,519-284-2564,Seasonal: April - June daily 9-5; July-Aug daily 9-6; Sept- Dec daily 9-5; Jan-Mar Wed-Sun 9-5,http://www.mccullys.ca,,,
-Silver Creek Nursery,2343 Gerber Rd.,Wellesley,Ontario,Canada,,N0B 2T0,519-804-6060,from April 8th to May - Thursday to Saturday. June to November - Saturday only. Open from 10am to 5pm,http://www.silvercreeknursery.ca,,,
-Comolea Farms,115026 27-28 Sideroad,Grand Valley,Ontario,Canada,,L9W 0L3,519-928-2218,Open year round but please call before you come.,http://www.comoleafarms.com,,,
-Richmond Nursery Berry Farm,5740 Richmond Rd.,Nepean,Ontario,Canada,,K0A 2Z0,613-838-2282,June - July Dawn-dusk,http://www.richmondnursery.com,"perennials, pumpkins",strawberries,"raspberries, strawberries"
-Pine Farms Orchard,2700 16th Sideroad,King City,Ontario,Canada,,L7B 1A3,905-833-5459,Open Tuesday - Sunday 9:30 to 5:00pm. Open Holiday Mondays,http://www.pinefarmsorchard.com,"apples, cider, preserves, pumpkins","apples, pears, plums, pumpkins, raspberries, squash","apples, pumpkins, raspberries"
-Valley Farm Market,"2457 County Rd. 92, RR 2",Elmvale,Ontario,Canada,,L0L 1P0,705-322-4493,"Summer: 7 days a week, 9 a.m. to 6 p.m. Winter: Wed.-Sat. 9 a.m.to 6pm. Winter: Tues. - Sat. 9 a.m. to 6 p.m.",http://www.valleyfarmmarket.ca,"beans, eggs, nectarines, peaches, peas, plums, pumpkins, raspberries, squash, strawberries, tomatoes","beans, peas, pumpkins, raspberries, squash, strawberries","raspberries, strawberries"
-Saunders Farm,"7893 Bleeks Rd., PO Box 356",Munster,Ontario,Canada,,K0A 1B0,613-838-5440,June through October 31. Call for hours,http://www.saundersfarm.com,pumpkins,pumpkins,pumpkins
-"""R"" Farm",3388 Concession 3,Newcastle,Ontario,Canada,,L1B 1L9,905-987-5090,"Open 12 months, 9am to 6pm daily",http://www.rfarmfresh.ca,"eggs, honey",pumpkins,Maze
-Cricklewood Farm,"27 Grandview Rd., RR 4",Brighton,Ontario,Canada,,K0K 1H0,613-475-4293,"‰Û¢ Maze opens Saturday, August 3rd to November 4th 9:30 to 4:30, Sunday to Friday, 9:30 to 6:00 Saturday. ‰Û¢ Market-July hours-2nd week in July for raspberries 8:30 to 1:00 Monday to Saturday Aug 3rd to November 10th -open 9:30 to 5:30 Sunday to Friday, 9:30 to 6:00 Saturdays",http://www.cricklewood.ca,"apples, cider, honey, pumpkins, raspberries, squash, tomatoes","apples, pumpkins, squash, tomatoes","apples, pumpkins, raspberries"
-Twinkle Berry Farms,8900 Main St.,Uxbridge,,,,,,,,"apples, beans, beets, blueberries, broccoli, carrots, cauliflower, cucumbers, onions, peaches, pears, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","cauliflower, pumpkins, strawberries",strawberries
-Koteles Farms Limited,164700 New Road,Tillsonburg,Ontario,Canada,,N4G 4G7,519-842-5425,8am to 5pm,,asparagus,asparagus,
-Smith's Apples & Farm Market,"470 The River Rd., RR 3",Port Elgin,Ontario,Canada,,N0H 2C7,519-832-2971,Late Aug. - Late October Daily: 10 am - 5:30 pm,http://www.smithsapples.com,"apples, carrots, honey, preserves, pumpkins, squash",apples,apples
-Wilmot Orchards Inc.,"3337 Concession Rd. 3, RR 8",Newcastle,Ontario,Canada,,L1B 1L9,,,http://www.wilmotblueberries.com,"blueberries, preserves",blueberries,blueberries
-Strom's Farm & Bakery Inc.,5089 Wellington Rd. #32,Guelph,Ontario,Canada,,N1H 6J4,519-822-1070,9:30-6 daily when in season,http://www.strom.ca,"baked goods, cider, corn, jam/jellies, onions, pies, potatoes, pumpkins, squash, tomatoes","corn, pumpkins",pumpkins
-Stroud Farms,4075 Lakeridge Rd.,Whitby,Ontario,Canada,,L1Z 1T3,905-666-5344,Open from July to December. Daily from 9am to 7pm,http://www.stroudfarms.ca,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, eggplant, onions, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","apples, beans, broccoli, cabbage, cauliflower, corn, cucumbers, eggplant, pears, peas, peppers, pumpkins, raspberries, squash, tomatoes",
-Bowman's Berry Patch,211259 Garden Rd.,Thornloe,Ontario,Canada,,P0J 1S0,705-563-8444,,,strawberries,strawberries,
-Acorn Creek Garden Farm & Market,"928 Oak Creek Rd., RR 3",Carp,Ontario,Canada,,K0A 1L0,613-831-2373,"May1 - November 30 - 8:00 to 8:00. Call for conditions, other times call ahead. Directions: Hyw.# 417 to Carp Rd. Exit 144, go north to Richardson Side Rd. and go right to Oak Creek Rd. and go left to 928 Oak Creek Rd. or follow the signs to Acorn Creek Garden Farm.",http://www.acorncreek.com,strawberries,"asparagus, beans, beets, broccoli, cauliflower, gooseberries, raspberries, rhubarb","potatoes, pumpkins, raspberries, strawberries"
-Waterhall Farm,1413 Brock Rd. RR #4,Dundas,Ontario,Canada,,L9H 5E4,905-659-0958,"Seasonal Vegetables: Friday to Sunday 9am to 5pm gate sales, self serve or by appointment. Antique Shop: Saturday and Sunday 10am to 5pm.",http://www.waterhallfarm.com,"beans, beets, broccoli, cabbage, carrots, cauliflower, cucumbers, currants, eggplant, garlic, gooseberries, lettuce, melons, onions, peas, peppers, potatoes, pumpkins, raspberries, rhubarb, squash, strawberries, tomatoes","beans, beets, broccoli, cabbage, carrots, cauliflower, cucumbers, currants, eggplant, gooseberries, lettuce, onions, peas, peppers, potatoes, pumpkins, raspberries, squash, strawberries, tomatoes",
-Thiessen Farms,4132 15th St.,Jordan Station,Ontario,Canada,,L0R 1S0,905-562-4372,July-Sept. Closed Sundays,,"blackberries, raspberries","blackberries, raspberries",
-Tiveron Farms Ltd./ The Apple Market,2281 Camilla Rd.,Mississauga,Ontario,Canada,,L5A 2K2,,,,,,
-Nicholyn Farms,"3088 Horseshoe Valley Rd. W., RR 2",Barrie,ON,Ontario,,L0L 2K0,705-737-4498,Year Round. Mon - Sat: 9am - 6pm; Sun: 10am - 5pm,http://www.nicholyn.com,"beans, beef, beets, carrots, eggs, garlic, giftware, herbs, honey, lamb, lettuce, onions, peas, peppers, pies, pork, potatoes, pumpkins, rabbit, squash, tomatoes","beans, beets, carrots, garlic, herbs, lettuce, onions, peas, peppers, potatoes, pumpkins, squash, tomatoes",
-Algoma Orchards Ltd.,201 Regional Rd. 42,Newcastle,Ontario,Canada,,L1B 1L9,905-987-4961,Year round: Mon-Sun: 8am to 6pm,http://www.algomaorchards.com,"apples, pies, preserves","apples, raspberries","apples, raspberries, strawberries"
-Murphy's Country Produce,2040 Guyatt Road,Binbrook,Ontario,Canada,,L0R 1C0,905-692-5733,"Open from June 15th to Oct 30th, Monday to Friday: 7:30am to 8:00pm, Saturday & Sunday 7:30pm to 5:00pm",http://www.murphyscountryproduce.com,"apples, beans, blueberries, cherries, corn, cucumbers, eggplant, onions, peaches, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","beans, corn, cucumbers, eggplant, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","beans, cucumbers, eggplant, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes"
-Watson Farms Ltd.,2287 HIghway #2,Bowmanville,Ontario,Canada,,L1C 3K3,905-623-9109,"Monday to Friday 9am to 8pm, Saturday and Sunday 9am to 6pm.",http://www.watsonfarms.ca,"apples, beans, peas, pumpkins, squash","apples, beans, peas, pumpkins, raspberries, rhubarb, strawberries","apples, beans, peas, pumpkins, raspberries, rhubarb, strawberries"
-Empire Valley Farm Market,"27983 Talbot Line, RR 1",Wallacetown,Ontario,Canada,,N0L 2M0,519-762-3504,May to Oct. Mon-Fri: 10-6; Sat: 10-5; Sun: 12-5,http://www.empirevalleyfarms.com,"gourds, perennials","peppers, tomatoes","peppers, tomatoes"
-Whittamore's Farm,8100 Steeles Ave. E.,Markham,Ontario,Canada,,L6B 1A8,905-294-3275,"May - Oct: Open daily, call 905-294-3275 for hours of operation.",http://www.whittamoresfarm.com,"asparagus, cheese, cider, giftware, gourds, honey, maple syrup/products, preserves, pumpkins, rhubarb, squash","beans, beets, broccoli, cabbage, cauliflower, corn, cucumbers, eggplant, melons, peas, peppers, potatoes, pumpkins, raspberries, strawberries, tomatoes","beans, beets, broccoli, cucumbers, eggplant, melons, peas, peppers, potatoes, raspberries, strawberries, tomatoes"
-Whitty Farms,1776 Fourth Ave.,St. Catharines,Ontario,Canada,,L2R 6P9,,,http://www.13thstreetwinery.com/bakery_marketplace/category/whitty_farms,"apricots, blueberries, currants, grapes, melons, nectarines, peaches, raspberries, strawberries, tomatoes","apricots, currants, flowers, melons, peaches, raspberries, strawberries, vegetables",
-Willis Family Fruit Farm,6063 Fifth Line,Milton,Ontario,Canada,,L9T 2X8,905-876-2606,Sat & Sun 10am to 4:30pm,http://www.willisfarm.com,apples,"apples, pumpkins",Maze
-Spirit Tree Estate Cidery,1137 Boston Mills Rd.,Caledon,Ontario,Canada,,L7C 0N1,905-838-2530,"Hours - Wednesday, Thursday & Sunday - 10am to 5pm, Friday & Saturday - 10am to 8pm. Closed Wednesdays from Jan-May.",http://www.spirittreecider.com/,apples,apples,
-Zekveld's Garden Market,"4622 London Line, RR 1",Wyoming,Ontario,Canada,,N0N 1T0,519-845-3482,9 months: Fall & Spring 9 - 6 pm; summer: 8 am - 8 pm. Monday to Saturday. Closed Sundays.,http://www.zekveldsgardenmarket.ca,"apples, beans, broccoli, cabbage, cherries, corn, cucumbers, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","apples, beans, broccoli, cabbage, cherries, corn, cucumbers, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","apples, beans, cherries, pears, peas, peppers, pumpkins, raspberries, strawberries, tomatoes"
-Jack's Produce,35 Agincourt Cres.,St. Catharines,Ontario,Canada,,L2S 4B4,,,,,,
-Sahota Farms,14392 Torbram Rd.,Caledon East,Ontario,Canada,,L0N 1E0,,,,,,
-Korny Korners Farm,6193 Blackwell Sd. Rd.,Sarnia,Ontario,Canada,,N7T 7H4,519-542-5232,Mid-June to Oct. 31 Mon-Fri 10am-6pm; Sat.9am-6pm; Sun.1pm-5pm,http://www.kornykornersfarm.ca,"apples, beans, blackberries, blueberries, honey, peaches, potatoes, pumpkins, raspberries, strawberries, tomatoes, zucchini","blackberries, gourds, pumpkins, raspberries, strawberries, tomatoes",pumpkins
-Elfsong Apiaries,Box 816,Tweed,Ontario,Canada,,K0K 3J0,,,,,,
-Strawberry Tyme Farms Inc.,RR 2,Simcoe,Ontario,Canada,,N3Y 4K1,519-426-3099,,http://www.strawberrytyme.com,,,
-Meier Family Organic Farm,191 River Road,Welland,Ontario,Canada,,L3B 5N8,905-714-9690,winter hours - Saturdays only 10am-4pm. Check our website for summer hours,http://www.zetafarms.com,"honey, preserves",honey,
-Elberta Farms,353 Governors Rd. East,Paris,Ontario,Canada,,N3L 3E1,,,http://www.elbertafarms.ca,"apples, cider, honey, pies, preserves, raspberries, strawberries","apples, cherries, cucumbers, currants, peppers, raspberries, strawberries, tomatoes","apples, cherries, cucumbers, currants, peppers, raspberries, strawberries, tomatoes"
-Bry-Anne Farms,"471 Foss Rd., RR 5",Fenwick,Ontario,Canada,,L0S 1C0,,,,"apples, cider, peas, peppers, potatoes, preserves, pumpkins, raspberries, squash, strawberries, tomatoes","raspberries, strawberries, tomatoes","raspberries, strawberries, tomatoes"
-Wagon Wheel Produce & Corn Maze,"1371 Charlotteville Rd.7, RR #6",Simcoe,Ontario,Canada,,N3Y 4K5,519-428-1083,"May - Asparagus; Aug 1st - Oct 31st: CORN MAZE July 28 - Aug Fridays & Saturday 10-10, Sunday 10-8; Sept & Oct Friday 5-10, Saturday 10-10, Sunday 10-8, Holiday Mondays Aug - October 10-8, closed after Halloween.",http://www.wagonwheelproduce.com,"asparagus, gourds, pumpkins, squash",pumpkins,pumpkins
-Great Lakes Farms,5111 Union Rd.,Port Stanley,Ontario,Canada,,N5L 1J2,519-782-3433,"Strawberries: Open daily 7 am - 7 pm Closed Sundays; Peach: Open 8am to 8pm daily, Apples: Open daily in October, weekends 10 am - 5 pm Sept - Nov",http://www.greatlakesfarms.ca,"apples, cider, peaches, strawberries","apples, peaches, pears, pumpkins","apples, pears, pumpkins"
-McMaze,17049 Willy Allan Rd. RR 1,St. Andrews West,Ontario,Canada,,K0C 2A0,,,http://www.mcmaze.ca,"pumpkins, squash","pumpkins, squash","pumpkins, squash"
-Crinklaw Maple Products,4570 Westminister Dr.,London,Ontario,Canada,,N6L 1M9,519-457-4550,March 1 to Mid-April 10am-4pm (seven days a week); Other times of the year call ahead fro hours or check out the latest information on our website,http://www.crinklawmaplesyrup.com,,,
-Neubrand Country Produce,"RR 2, 6584 Line 49",Monkton,Ontario,Canada,,N0K 1P0,,,,,,
-Cooper's CSA Farm & Maze,266 Ashworth Rd.,Zephyr,Ontario,Canada,,L0E 1T0,905-830-4521,"Open mid-June to Oct.31, Wed. to Sun. 10am to 7pm.",http://www.coopersfarm.ca,"beans, beets, carrots, corn, cucumbers, eggplant, melons, onions, peas, peppers, potatoes, preserves, pumpkins, squash, strawberries, tomatoes","beans, beets, carrots, corn, cucumbers, eggplant, melons, onions, peas, peppers, potatoes, pumpkins, squash, strawberries, tomatoes",Maze
-Farintosh Farms,11858 Warden Ave.,Gormley,Ontario,Canada,,L0H 1G0,,,http://www.farintosh.com,"apples, blueberries, carrots, cherries, onions, peaches, peppers, plums, pumpkins, squash, tomatoes","beans, broccoli, cabbage, carrots, cauliflower, corn, cucumbers, eggplant, peppers, pumpkins, squash, tomatoes","beans, broccoli, cabbage, cauliflower, corn, cucumbers, eggplant, peppers, pumpkins, squash, tomatoes"
-Josmar Acres,568 Lynden Rd.,Lynden,Ontario,Canada,,L0R 1T0,519-647-2025,Open Year Round except for Sundays 8 a.m. to 6 p.m.,http://www.josmaracres.com,"apples, asparagus, beans, blueberries, corn, cucumbers, flowers, onions, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","apples, corn, cucumbers, flowers, peaches, pears, peppers, plums, pumpkins, raspberries, strawberries, tomatoes","peppers, raspberries, strawberries, tomatoes"
-Giffen's Country Market,55 Station St.,Glen Huron,Ontario,Canada,,L0M 1L0,,,,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, flowers, grapes, onions, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","apples, cherries, corn, cucumbers, peas, pumpkins, tomatoes",apples
-Barbetta Orchards Ltd.,RR#3,Meaford,Ontario,Canada,,N4L 0A7,,,,"apples, cherries, honey, peaches, pears, plums, pumpkins, raspberries, squash, strawberries","apples, cherries, peaches, pears, plums, pumpkins, raspberries, squash, strawberries","raspberries, strawberries"
-Avonmore Berry Farm Inc.,16365 4 Rd,Avonmore,Ontario,Canada,,K0C 1C0,,,http://www.avonmoreberryfarm.com,"apples, beans, corn, cucumbers, pumpkins, raspberries, strawberries","apples, beans, corn, cucumbers, pumpkins, raspberries, strawberries","apples, pumpkins, raspberries, strawberries"
-Stanleys Olde Maple Lane Farm,2452 Yorks Corners Rd.,Edwards,Ontario,Canada,,K0A 1V0,,,http://www.stanleysfarm.com,Maze,,
-Your Farm Market (YFM),1147 Dundas St. E.,Woodstock,Ontario,Canada,,N4S 8W3,519-535-2569,June 1 to October 31: 8 am to 6 pm,,"apples, beans, corn, melons",corn,
-Richardson's Corn Maze & Farm Market,"131 River Rd., RR #4",Dunnville,Ontario,Canada,,N1A 2W3,,,http://www.RichardsonsFarm.com,"corn, peas, preserves, pumpkins, raspberries, squash, strawberries, tomatoes","corn, peas, pumpkins, raspberries, squash, strawberries, tomatoes","pumpkins, raspberries, squash, strawberries, tomatoes"
-Wheelbarrow Orchards/Harvest Goodies,"8277 10th Sideroad, RR #3",Halton Hills/Milton,Ontario,Canada,,L9T 2X7,905-878-6216,Open 10-4 weekdays in December,http://www.harvestgoodies.com,apples,apples,
-Mapleton's Organic Dairy Inc.,8548 Wellington Rd. #7,Teviotdale,Ontario,Canada,,N0G 2K0,519-638-1115,Tuesday through Saturday 11am to 5pm.,http://www.mapletonsorganic.ca,Maze,,
-Hudson's Sweet Corn/Panmure Farms,2831 Upper Dwyer Hill Rd.,Kinburn,Ontario,Canada,,K0A 2H0,613-839-2346,Open from July to August: 9:00am to 7:00pm; September to October: 11am to 6pm,,"beans, beets, corn, cucumbers, onions, peas, potatoes, pumpkins, squash, tomatoes","beans, beets, corn, cucumbers, onions, peas, potatoes, pumpkins, squash, tomatoes",
-Bill's Turkey Farm,2978 Holborn Rd.,Queensville,Ontario,Canada,,L0G 1R0,905-478-4677,"Christmas, Thanksgiving, Easter",http://billsturkeyfarm.com,,,
-Jardin Rochon Garden,1101 York's Corner's Road,Edwards,Ontario,Canada,,K0A 1V0,613-821-3245,"7am to 6pm, 7 days a week",http://jardinrochongarden.ca,"beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, eggplant, flowers, onions, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, eggplant, flowers, onions, peppers, pumpkins, raspberries, squash, strawberries, tomatoes",strawberries
-White Meadows Farms,2519 Effingham St.,St. Catharines,Ontario,Canada,,L2R 6P7,905-682-0642,"Year-round: Maple Sweet Shop daily 9AM-5PM, Pancake House weekends 8:30AM-2PM, Sugar Bush Adventure - winter, Discover Maple Tour - summer/fall",http://www.whitemeadowsfarms.com,maple syrup/products,maple syrup/products,
-Meadow Sweet Farm,12102 Warden Ave.,Gormley,Ontario,Canada,,L0H 1G0,416-574-6234,Open April to December,http://www.meadowsweetfarm.ca,"beans, beets, cucumbers, zucchini","beans, beets, cucumbers, zucchini",
-Clovermead Bees & Honey,11302 Imperial Road. (Hwy #73),Aylmer,Ontario,Canada,,N5H 2R3,519-773-5503,"Monday to Saturday 9 a.m. to 5:30 p.m. In January & February 9-5 on Tuesdays, Fridays and Saturdays. Closed on Sundays while we take a rest and the bees keep working.....",http://www.clovermead.com,honey,honey,Maze
-Shantz Family Farm,1544 Bleams Rd.,Petersburg,Ontario,Canada,,N0B 2H0,519-634-5252,"Open mid-Sept until Nov 1st: Mon to Sat 8-8, Sun 12-6 *We are open Thanksgiving Monday 8-6*",http://shantzfarm.ca,"corn, cucumbers, gourds, pumpkins, squash, zucchini","corn, cucumbers, gourds, pumpkins, squash, zucchini",pumpkins
-Rounds Ranch,1922 County Road 92,Elmvale,Ontario,Canada,,L0L 1P0,705-322-6293,"Ranchland opens July 1st to the end of October, Tues. to Sat. 11am to 5pm. Adventure Cornfield Maze opens July 26th Pumpkin Mania September 27th to Oct. 26th Sat. & Sun. 11am to 5pm.",http://www.roundsranch.com,pumpkins,pumpkins,pumpkins
-Waddell Apples,1345 Washburn Road,Kingston,Ontario,Canada,,K0H 2N0,613-546-1690,Please check our website for operating information.,http://www.waddellapples.com,"apples, pies, pumpkins","apples, pumpkins","apples, pumpkins"
-Lennox Farm,518024 County Road 124,Shelburne,Ontario,Canada,,L0N 1S7,519-925-6444,"Open from June 30th to Labour Day, 8am to 8pm.",,"peas, rhubarb",strawberries,
-Everdale Organic Farm & Environmental Learning Centre,5812 6th Line,Hillsburgh,Ontario,Canada,,N0B 1Z0,519-855-4859,"Special events only, see website for all the fun farm details!",http://www.everdale.org,Maze,,
-Homestead Orchards,3961 Old Homestead Rd.,Sutton West,Ontario,Canada,,L0E 1R0,905-722-5325,"Hours vary throughout the season, so please check our website or phone for hours and availability.",http://www.homesteadorchards.com,"apples, corn, honey, preserves, pumpkins, squash","apples, corn, pumpkins, squash",apples
-Goats in Motion,1988 Hwy 5 West,Troy,Ontario,Canada,,L0R 2B0,905-928-6603,"Open year round, 9 to 5",http://www.goatsinmotion.com,beef,beef,
-Sunnivue Farm Inc.,27093 New Ontario Rd.,Ailsa Craig,Ontario,Canada,,N0M 1A0,519-232-9096,"Open Fridays 3pm - 6pm, April to December Saturdays 9am - 4pm.",http://www.sunnivue-farm.on.ca,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, corn, eggplant, eggs, flowers, grapes, honey, onions, peaches, pears, peas, peppers, plums, pumpkins, squash, strawberries, tomatoes, vegetables","beans, beets, cabbage, carrots, corn, eggplant, eggs, flowers, onions, peas, peppers, pumpkins, squash, tomatoes, vegetables",
-Warner's Farm,4045 John St.,Beamsville,Ontario,Canada,,L0R 1B1,,,,"apples, apricots, cherries, grapes, nectarines, peaches, pears, plums",,
-Red Cat Farm,82560 Bluewater Hwy,Goderich,Ontario,Canada,,N7A 3X9,519-524-1283,Open on Friday 9am to 6pm year round.,,potatoes,potatoes,
-Shouldice Berry Farm & Market,3 locations in Ottawa,Ottawa,Ontario,Canada,,K0A 2Z0,,,http://www.shouldicefarm.com,"pumpkins, raspberries, strawberries, tomatoes","raspberries, strawberries",
-Integrated Farms,5091 Line 10,Coldwater,Ontario,Canada,,L0K 1E0,705-838-0551,By appointment only please.,http://www.ifarmfresh.ca,"beef, eggs, pork, poultry/chicken","beef, eggs, pork, poultry/chicken",
-Fulton's Pancake House & Sugar Bush,399 Sugar Bush Rd.,Pakenham,Ontario,Canada,,K0A 2X0,613-256-3867,"9 am to 5 pm, 7 days a week from third week in February to third week in April. Maple Shoppe is open Tuesdays and Thursdays, 10am to 3pm from May to January",http://www.fultons.ca,,,
-From the Meadow,3881 Avon Dr.,Belmont,Ontario,Canada,,N0L 1B0,519-269-3961,Monday to Friday 9-5,http://www.fromthemeadow.com,"apples, beets, cherries, currants, flowers, herbs, honey, peaches, pears, peppers, pumpkins, raspberries",,
-Peart's Strawberry Farm,3545 River Rd.,Caledonia,Ontario,Canada,,N3W 2E6,905-765-2027,"Open from June 10 to July 7, 7:30 am to 7:30 pm, Closed Sundays",http://www.peartstrawberryfarm.com,"pears, strawberries","pears, strawberries",strawberries
-McLean Berry Farm,"2191 16th Line of Smith, RR #1",Lakefield,Ontario,Canada,,K0L 2H0,705-657-2134,"Open from March 12 to April 6 AND June 16 to October 7, hours vary through the season, call first or check on web site for further information.",http://www.mcleanberryfarm.com,"beans, blueberries, currants, gooseberries, peas, pies, potatoes, pumpkins, raspberries, squash, strawberries, tomatoes","beans, currants, gooseberries, peas, strawberries",
-Grassroots CSA,"736 Bruce Rd. 86, RR#1",Lucknow,Ontario,Canada,,N0G 2H0,519-528-5374,"CSA farm pick up on Mondays and Thursdays, delivery is also available",http://www.grassrootsruralretreat.com,vegetables,,
-Harris Farms,3216 George Johnston Rd.,Barrie,Ontario,Canada,,L4M 4S4,705-725-2023,"9:30am to 8:00pm, 7 days a week",http://www.harrisfarms.ca,"beans, beets, carrots, corn, cucumbers, onions, peppers, pumpkins, squash, strawberries, tomatoes","beans, beets, carrots, corn, cucumbers, onions, peppers, pumpkins, squash, strawberries, tomatoes",
-Sovereign Farms,130 Lutesville Rd.,Norfolk,Ontario,Canada,,N0E 1Y0,519-443-4061,Open May 1 to October 15th,http://www.sovereignfarms.ca,"cucumbers, peas, peppers, raspberries, squash, zucchini",,
-Staite's Honey Enterprise,244 Ashworth Rd.,Zephyr,Ontario,Canada,,L0E 1T0,905-473-3401,,http://www.staites-honey.com,honey,honey,
-Daniel's Farm,73 Stephen Drive,Etobicoke,Ontario,Canada,,M8Y 3M8,416-503-2474,,,,,
-Strawberry Creek Farms,118 Crittenden Drive,Keswick,Ontario,Canada,,L4P 4A3,905-656-7127,,,,,
-Berry Hill Fruit Farm,48937 Glencolin Line,Aylmer,Ontario,Canada,,N5H 2R6,519-765-1752,"Open from June to November, 8am - 6pm",http://www.berryhillfruitfarm.ca,"apples, beans, beets, corn, onions, peaches, pears, peppers, plums, pumpkins, raspberries, strawberries, tomatoes","apples, beans, beets, corn, gourds, onions, peaches, pears, peppers, plums, potatoes, pumpkins, raspberries, squash, strawberries, tomatoes","pumpkins, strawberries"
-Stonehaven Farm Market,"7388 Guelph Line, RR #3",Campbellville,Ontario,Canada,,L0P 1B0,905-878-1870,"June, July, September and October, 9am - 5pm Monday to Saturday, Sunday 10am to 5pm, last maze and PYO entry 4:00 pm, check website for exact opening and closing dates",http://www.stonehavenfarms.com,"apples, asparagus, blueberries, cheese, cucumbers, honey, onions, peaches, pears, potatoes, pumpkins, raspberries, strawberries, tomatoes","gourds, pumpkins, raspberries, strawberries","pumpkins, strawberries"
-Mountainoak Cheese Ltd.,3165 Huron Rd.,New Hamburg,Ontario,Canada,,N3A 3C3,519-662-4967,Friday and Saturday 9am to 5pm,http://www.mountainoakcheese.ca,,,
-The Farm-acy,148 6th Concession Rd. E.,Millgrove,Ontario,Canada,,L0R 1V0,905-689-5466,"Monday to Friday 2pm to 6pm, Saturday 10am to 5pm, Sunday 11am to 5pm",http://www.thefarm-acy.com,"asparagus, beans, beets, broccoli, carrots, cauliflower, corn, cucumbers, eggplant, garlic, herbs, lettuce, melons, onions, peas, peppers, potatoes, pumpkins, raspberries, rhubarb, rutabaga, spinach, squash, strawberries, tomatoes, watermelons, zucchini","asparagus, beans, beets, broccoli, carrots, cauliflower, corn, cucumbers, eggplant, garlic, herbs, lettuce, melons, onions, peas, peppers, potatoes, pumpkins, raspberries, rhubarb, rutabaga, spinach, squash, strawberries, tomatoes, watermelons, zucchini",
-Jennen Family Farm Market,"11775 Baseline Rd., RR #7",Thamesville,Ontario,Canada,,N0P 2K0,519-692-5971,Open 8 to 8 seasonally from May to October.,http://www.jennenfarmmarket.com,"cucumbers, peppers, pumpkins, squash, strawberries, tomatoes","cucumbers, peppers, strawberries, tomatoes",
-Martin's Family Fruit Farm Ltd.,"1420 Lobsinger Line,",Waterloo,Ontario,Canada,,N2J 4G8,519-664-2750,"Open year round, Mon. to Fri. from 8:00 to 6:00, Saturday 8:00 to 4:00, closed on Sundays",http://www.martinsapples.com,"apples, beans, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, cider, corn, cucumbers, eggplant, grapes, onions, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","apples, grapes, peaches, pears",
-Fraberts Fresh Food,"105 Queen Street West, Unit #3",Fergus,Ontario,Canada,,N1M 1F6,519-843-2456,Open Year Round,http://www.frabertsfreshfood.com,,,
-Hewitt's Sweet Corn,"3331 Townline, RR #5",Coldwater,Ontario,Canada,,L0K 1E0,,,,"beans, blueberries, cucumbers, onions, peaches, peppers, tomatoes","gourds, pumpkins, squash",
-Linton's Farm Market,571 Raglan Rd. E.,Oshawa,Ontario,Canada,,L1H 7K4,905-655-6338,"Market is open from June to October 31st, 8am to 8pm daily.",http://www.lintonsfarmmarket.com,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, eggplant, onions, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","beans, beets, broccoli, cabbage, carrots, cauliflower, corn, cucumbers, onions, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","pumpkins, raspberries, strawberries"
-Murphy's Farm Market and Bakery,5163 Simcoe Rd. 10,Alliston,Ontario,Canada,,L9R 1V2,705-435-2141,"Monday-Friday 9-6, Saturday 9-5, Sunday 10-5 from May until October and Fridays and Saturdays in November and December",http://www.murphysfarmmarket.com,milk,"asparagus, beans, beets, blueberries, lettuce, peas, peppers, potatoes, pumpkins, raspberries, squash, strawberries, tomatoes",pumpkins
-Wholesome Pickins,472 Church St. E.,Delhi,Ontario,Canada,,N4B 1V3,519-582-1114,"Open from June to October 31, 8am to 8pm daily.",http://www.wholesomepickins.ca,"peppers, pumpkins, raspberries, strawberries, tomatoes, watermelons","peppers, pumpkins, raspberries, strawberries, tomatoes, watermelons",strawberries
-Godelie Family Farm,225754 Otterville Rd.,Otterville,Ontario,Canada,,N0J 1R0,,,,"beans, beets, carrots, corn, cucumbers, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","beans, beets, carrots, corn, cucumbers, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","raspberries, strawberries"
-Carl Fletcher,3 Applegate Lane,St. Thomas,Ontario,Canada,,N5P 3S8,519-633-1902,,,,,
-Tincap Berry Farm,4035 County Rd. 29,Brockville,Ontario,Canada,,K6V 5T4,613-345-3096,"May-June 7:00am to 8:00pm, Aug - Oct 8:00am to 6pm",http://www.tincapberryfarm.ca,"apples, raspberries, strawberries","peas, raspberries, strawberries, tomatoes",
-Snyders Family Farm Ltd.,936685 Blenheim Rd.,Bright,Ontario,Canada,,N0J 1B0,519-465-1657,Nursery open from April 30 - June 15; Sept-Oct Saturday & Sunday 11am - 5pm; call for summer hours.,http://www.snydersfamilyfarm.com,pumpkins,"corn, pumpkins",pumpkins
-DeVries Fruit Farm,"825 Canboro Rd., PO Box 143",Fenwick,Ontario,Canada,,L0S 1C0,,,,,,
-Kilmarnock Orchard,1182 Kilmarnock Rd.,Jasper,Ontario,Canada,,K0G 1G0,613-283-4422,"August to October 9:00am to 5:00pm, 7 days a week during the season",,"apples, honey",apples,apples
-Cherrylane,4230 Victoria Avenue,Vineland,Ontario,Canada,,L0R 2E0,905-562-4337,,http://www.cherrylane.net,"cherries, peaches","cherries, peaches, pears",
-R Family Farm,3560 3rd Line,Cookstown,Ontario,Canada,,L0L 1L0,705-812-2373,"Open from late June to September, call or visit website for hours of operation",http://www.rfamilyfarm.ca,"beans, blackberries, honey, peas, raspberries, strawberries","beans, blackberries, honey, peas, raspberries, strawberries","beans, blackberries, peas, raspberries, strawberries"
-Howe Family Farm Market,7841 Rodgers Road,Aylmer,Ontario,Canada,,N5H 2R4,519-773-3837,"8am to 6pm, 7 days a week",,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, eggplant, flowers, honey, onions, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","beans, beets, corn, cucumbers, honey, onions, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes",
-Traynor Beef Farms,2193 County Rd. #2,Peterborough,Ontario,Canada,,K9J 6X9,705-876-0044,"January to March: Saturday 12-5pm, April to December: Thursday to Saturday 12-5pm",http://www.traynorbeeffarms.ca,"beef, corn, pumpkins","beef, corn, pumpkins",
-Potters Road Berries,"145476 Potters Road, RR #2",Tillsonburg,Ontario,Canada,,N4G 4G7,,,,"raspberries, strawberries","raspberries, strawberries","raspberries, strawberries"
-River Road Farms,652 River Road,Lindsay,Ontario,Canada,,K9V 4R4,705-344-0399,call ahead for a farm visit,http://riverroadfarms.ca,"blueberries, garlic, tomatoes, watermelons","blueberries, garlic, tomatoes, watermelons",
-Bauman Apiaries,6927 Nicklin St.,Millbank,Ontario,Canada,,N0K 1L0,519-595-4885,"Open Thursdays, Fridays and Saturdays. Other days by chance",,honey,honey,
-Burrow/Kosir Farm,6325 Fifth Line,Fergus,Ontario,Canada,,N1M 2W5,519-362-1585,Open year round,http://www.jewelsunderthekilt.com,"apples, cherries, pears, raspberries",,
-SamGra Acres,3764 Windham West Quarter Town Line,LaSalette,Ontario,Canada,,N0E 1H0,519-427-7125,"Open from May 1 to June 30, daily from 7:00 to 6:00.",http://www.samgraacres.ca,"asparagus, garlic","asparagus, garlic",
-Oakridge Acres Country Meat Store,"2132 Greenfield Rd., RR #1",Ayr,Ontario,Canada,,N0B 1E0,519-632-7653,"Tuesday, Wednesday, Friday 10-6, Thursday 10-8 and Saturday 9-4",http://www.oakridgeacres.ca,"eggs, lamb, pork, preserves",,
-Leaping Deer Adventure Farm & Market,544212 Clarke Rd.,Ingersoll,Ontario,Canada,,N5C 3J8,519-485-4795,Opening Saturday June 11th. Open every Saturday and Sunday in June and July 11-5. August Wed.-Sun. 11-5 September and October Wed.-Sun. 11-5 including hol. Mon. Nov. and Dec. Sat. 10-3,http://www.leapingdeer.com,Maze,,
-West Moira Orchards/McCaw Farms,537 Moira St. West,Belleville,Ontario,Canada,,K0K 2C0,613-962-8228,,http://www.westmoiraorchards.ca,"broccoli, cabbage, cauliflower, cherries, cider, flowers, peaches, pears, peas, plums, preserves","apples, beans, beets, blueberries, carrots, corn, cucumbers, currants, grapes, onions, peppers, pumpkins, raspberries, squash, strawberries, tomatoes, turnip","blueberries, raspberries, tomatoes"
-Organics Family Farm,7550 19th Avenue,Markham,,,,,905-640-5206,"Open from June to October. Hours vary within the season, please call ahead.",http://www.organicsfarm.ca,"raspberries, strawberries","currants, raspberries, strawberries","raspberries, strawberries"
-Fields on West Lake,15786 Loyalist Parkway,Bloomfield,Ontario,Canada,,K0K 1G0,,,http://www.fieldsonwestlake.com,"apples, currants, gooseberries, pears, raspberries","apples, corn, currants, gooseberries, pears, raspberries","apples, currants, gooseberries, pears, raspberries"
-Fort Rose Maple Company,"27382 Coldstream Rd.,",Parkhill,Ontario,Canada,,N0M 2K0,519-232-9041,"Maple syrup available year round. Pancake house is open from Feb. 28 to April 5, 9am to 2 pm. Open March Break, March 16-20 9am - 2pm.",http://www.fortrose.ca,,,
-The Red Barn Fruit Farm,8651 Townsend Line,Arkona,Ontario,Canada,,N0M 1B0,,,http://www.redbarnfruitfarm.com,"apples, apricots, cherries, cider, corn, cucumbers, onions, peaches, pears, peppers, plums, pumpkins, squash, tomatoes","apples, apricots, cherries, peaches, pears, plums, pumpkins, squash",
-Binnendyk Orchard,332700 Plank Line,Tillsonburg,Ontario,Canada,,N4G 4H1,519-688-9091,MOnday to Saturday 8am to 6pm,,"apples, corn, honey, pumpkins, squash","apples, corn, honey, pumpkins, squash",
-Torry Lane Farm-Mille de Fleurs,1281 10th Concession West,Puslinch,,,,,905-659-3219,By appointment,http://www.milledefleurs.ca,lavender,,
-Rutherford's Farm & Roadside Market,205 King Street East,Colborne,Ontario,Canada,,K0K 1S0,,,http://www.ruralroutes.com/rutherfords,"cheese, cider, corn, flowers, honey, onions, peaches, pears, plums","apples, beans, beets, broccoli, cabbage, cauliflower, cucumbers, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes",strawberries
-Applewood Farm Winery,12416 McCowan Rd.,Stouffville,Ontario,Canada,,L4A 7X5,,,http://www.applewoodfarmwinery.com,"apples, pumpkins, strawberries, wine","apples, pumpkins, raspberries, strawberries","apples, pumpkins, raspberries, strawberries"
-Marlin Orchards & Garden Centre,6864 Orchard Rd.,South Glengarry (Cornwall),Ontario,Canada,,K6H 5R5,613-931-1213,"Open March to December, 7 days a week.",http://www.marlinorchards.com,"apples, cherries, pears, plums, pumpkins","apples, cherries, pears, plums, pumpkins",apples
-Mosborough Country Market,5284 Wellington County Rd 32,Guelph,,,,,,,http://www.mosboroughmarket.ca,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, currants, flowers, grapes, onions, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","corn, pumpkins",
-Rowen's,121 Robinson Rd.,Waterford,Ontario,Canada,,N0E 1Y0,,,,,,
-Powell's Patch Blueberries,"37 Gilbert Rd., RR #3",Simcoe,Ontario,Canada,,N3Y 4K2,,,,blueberries,blueberries,blueberries
-Dickey Bee Honey Inc.,4031 3rd Line,Cookstown,Ontario,Canada,,L0L 1L0,705-458-1258,Tuesday to Friday ~ 10am to 6pm. Saturday ~ 10-5pm. Sunday ~ 10-4pm,http://www.dickeybeehoney.com,honey,honey,Groups
-Meleg's Lakeview Orchard,158 Arner Townline,Kingsville,Ontario,Canada,,N9Y 2E6,519-733-4857,"Open year round - Monday to Friday 9am to 6pm, weekends 10am to 5pm",http://www.melegpyofruit.com,"apples, beans, cherries, cider, corn, onions, peaches, peppers, plums, pumpkins, strawberries, tomatoes","apples, beans, cherries, corn, onions, peaches, peppers, plums, pumpkins, strawberries, tomatoes","apples, blackberries, cherries, peaches, raspberries, strawberries"
-Steckle's Produce and Flowers,5857 Hwy 89,Harriston,,,,,519-338-5381,We are open from May to October. 6 days/week from 9am to 7pm. Closed on Sundays,http://www.steckles.ca,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, flowers, melons, onions, peaches, pears, peas, peppers, plums, potatoes, pumpkins, raspberries, squash, strawberries, tomatoes","beans, beets, cabbage, carrots, corn, cucumbers, flowers, onions, peas, peppers, squash, strawberries, tomatoes",
-Hotchkiss Homestead,51240 John Wise Line,Aylmer,Ontario,Canada,,N5H 2R3,519-765-2130,,,"asparagus, beans, beets, blueberries, cabbage, carrots, corn, eggs, flowers, honey, lettuce, melons, peppers, pumpkins, raspberries, squash, tomatoes",,
-Adel Farms Inc.,4172 Tecumseh Line,Tilbury,Ontario,Canada,,N0P 2C0,519-360-6675,,,"beets, carrots, corn, onions, peas, peppers, potatoes, pumpkins",,
-Hipple Farms Limited,"4275 Maple Grove Rd,",Lincoln,Ontario,Canada,,L0R 1B1,905-562-4861,"Open from July 1st to the end of September, daily from 9am to 7 pm.",http://www.hipplefarms.ca,"apricots, cherries, grapes, nectarines, peaches, pears, plums, raspberries, tomatoes",,
-Pieter's Appleyard,"13516 County Rd. 2, RR #4",Colborne,Ontario,Canada,,K0K 1S0,905-355-5725,"We are open from September 1 to October 31st, daily from 10am to 5pm including holidays.",http://www.pietersappleyard.com,"apples, pears, pumpkins, squash","apples, pears, pumpkins, squash","apples, pears"
-Aylmer Big Apple Orchard Corp.,11766 Imperial Rd. RR #4,Aylmer,Ontario,Canada,,N5H 2R3,519-773-2318,Daily 9 to 5,http://www.aylmerapple.com,,,
-Kent Creek Orchard,1725 McDowell Rd. E.,Simcoe,Ontario,Canada,,N3Y 4K5,519-426-6148,"Open 11-6 on Saturday and Sunday for August, September and October",http://kentcreekorchard.com,"apples, flowers, herbs, honey, lavender","apples, flowers, honey",
-Board's Honey Farm,6866 Hwy. 534,Nipissing,Ontario,Canada,,P0H 1W0,705-729-2939,"By chance or request January-March, April - December 10 a.m. - 5 p.m. daily",http://www.boardshoneyfarm.com,honey,honey,
-Tigchelaar Berry Farms,4171 Jordan Rd.,Jordan,Ontario,Ontario,,L0R 1S0,905-658-2265,,http://www.tigchelaarberries.com,"apples, cucumbers, eggplant, pears, peas, peppers, strawberries, tomatoes",strawberries,
-R.V. Farm,7243 County Road 9,Napanee,Ontario,Canada,,K7R 3K8,613-484-2595,Mid June to the end of October daily from 8am to 8pm,,"beans, pumpkins, squash, strawberries, tomatoes",pumpkins,
-O'Keefe Grange,1070 Conc. 2 Arran,RR #1 Dobbinton,Ontario,Canada,,N0H 1L0,519-934-3673,"Open from March to December; Thursday and Friday: 12:00 to 5:00, Saturdays: 10:00 to 5:00<br /> DIRECTIONS: 1070 Conc 2 Arran Township<br /> Third Concession south of Tara, turn right, travel for 8 km, corner farm at Mount Hope corner",,"apples, beans, currants, pears, peppers, pumpkins, squash, tomatoes","apples, beans, currants, pears, peppers, pumpkins, squash, tomatoes",
-Gallery on the Farm,1721 Regional Road 3,Enniskillen,Ontario,Canada,,L0B 1J0,905-263-8245,Open year round -phone ahead or by chance,http://www.galleryonthefarm.com,corn,corn,
-Corn Acre Farms / Wendy's Country Market,1757 Summers Rd.,Lyndhurst,Ontario,Canada,,K0E 1N0,613-928-2977,Year round - 10 a.m. - 5 p.m.,http://www.cornacrefarms.com,"beans, beets, broccoli, cider, corn, cucumbers, peppers, preserves, squash, tomatoes","beans, beets, broccoli, corn, cucumbers, peppers, potatoes, squash, tomatoes",
-Dingo Farms,3412 8th Line,Bradford,Ontario,Canada,,L3Z 2A5,905-775-5520,"Year round - Saturday 9am - 3pm, rest of the week by appointment",http://www.dingofarms.com,"beef, lamb, pork","beef, lamb, pork",
-Moore Orchards,1497 Moore Orchard Road,Cobourg,Ontario,Canada,,K9A 4J8,905-372-3911,"Open year round. Apples 10am-5pm Monday-Saturday 1-4 pm Sunday. Strawberries 8am-dusk Monday-Friday, 8am-4pm Saturday, 8am-12noon Sunday",,"apples, blueberries, cider, corn, pears, preserves, pumpkins, raspberries, squash, strawberries","apples, blueberries, corn, pears, pumpkins, raspberries, squash, strawberries","apples, raspberries, strawberries"
-The Farmer's Pantry,788030 Grey Road 13,Clarksburg,Ontario,Canada,,N0H 1J0,519-599-3656,"Open July 3 - October 31, 2009 10am - 6pm",http://www.farmerspantry.com,preserves,"apples, beans, pumpkins, raspberries, squash","apples, beans, pumpkins, raspberries"
-VanDorp Farms,3260 County Road 28,Port Hope,Ontario,Canada,,L1A 3V6,905-885-0207,June 20 - August 20 8am - 8pm,,"raspberries, strawberries","raspberries, strawberries","raspberries, strawberries"
-Freeman Herbs Inc.,4838 Lincoln Ave.,Beamsville,Ontario,Canada,,L0R 1B3,"905-563-8890, x222",,http://www.freemanherbs.com,,,
-Snowden Farms,1576 Concession Rd. 7,Enniskillen,Ontario,Canada,,L0B 1J0,905-260-9596,Open year round.,http://www.allnaturalmeatpies.com,,,
-Steed and Company Lavender,47589 Sparta Line,Aylmer,Ontario,Canada,,N5H 2R4,,,http://www.lavenderblue.ca,lavender,lavender,
-Geissberger Farmhouse Cider,5345 Langmaid Road,Mitchell's Corners,Ontario,Canada,,L0B 1J0,905-725-4985,September 14 - December 31 Call ahead please,http://www.farmhousecider.ca,,,
-Heatherlea Farm Shoppe,17049 Winston Churchill Blvd.,Caledon,Ontario,Canada,,L7K 1J1,519-927-5902,Open all year - Mon. closed; Tues-Fri. 9-6 pm; Sat. 9-5 pm; Sun. 12-4 pm.,http://www.heatherlea.ca,"lamb, pork, pumpkins",,
-Tawse Winery,3955 Cherry Ave.,Vineland,Ontario,Canada,,L0R 2C0,905-562-9500 x22,,http://www.tawsewinery.ca,wine,,
-Sunshine Farms,30043 Jane Road,Thamesville,Ontario,Canada,,N0P 2K0,519-692-4416,Open May 1 - Sept 30 9-7,http://www.picklesplease.ca,"asparagus, vegetables",,
-Albion Orchards Apple Farm & Country Market,14800 Innis Lake Rd.,Caledon East,Ontario,Canada,,L7C 2Y8,905-584-0354,"mid Aug - Dec 23, 10 am - 6 pm",http://www.albionorchards.com,"apples, fudge, pies, preserves, vegetables","apples, pears, pumpkins","apples, pears, pumpkins"
-Barrie Hill Farms,"2935 Barrie Hill Rd., RR 2",Barrie,Ontario,Canada,,L4M 4S4,705-728-0571,"May - Labour Day; Mkt Daily 8 am - 8 pm; PYO Mon - Fri 8 - 8; Sat, Sun, Hol. 8 - 4",http://www.barriehillfarms.com,"asparagus, beans, blueberries, cucumbers, peas, potatoes, raspberries, rhubarb, strawberries","beans, blueberries, peas, raspberries, strawberries","beans, blueberries, peas, raspberries, strawberries"
-Brantview Apples & Cider,225 Howell Rd.,St. George,Ontario,Canada,,N0E 1N0,519-448-1323,Sept. 1 - Oct. 31: daily; Nov - May: Fri only.,http://www.brantviewapples.on.ca,"apples, cider",apples,Maze
-Hulshof Farm Market,5538 Bloomington Road,Stouffville,Ontario,Canada,,L4A 7X3,905-640-1380,Our season is: Open Long weekend in May and close November 30th. Our daily hours of operation are: Mon. - Sun 9 a.m. - 6 p.m.,,"broccoli, cabbage, cauliflower",,
-Forsythe Family Farms 2009 Inc.,1025 Cragg Rd.,Uxbridge,Ontario,Canada,,L9P 1R3,905-985-6749,May - Dec 24; hours vary with season; Host: School Groups,http://www.forsythefamilyfarms.com,"pumpkins, strawberries","apples, beans, peas, pumpkins, strawberries","beans, peas, pumpkins, strawberries"
-Haute Goat,1969 Burnbrae Rd. East,Campbellford,Ontario,Canada,,K0L 1L0,416-402-8144,Thursday to Sunday 10am to 4pm and by appointment. Open Year Round.,http://www.hautegoat.com,garlic,garlic,
-Frootogo Orchards,573 Parkside Drive,Waterdown,Ontario,Canada,,L0R 2H1,905-689-1652,Aug. 1 to Dec. 21 daily 10-6,http://www.frootogo.ca,apples,"apples, grapes, plums, pumpkins, strawberries","apples, grapes, plums, pumpkins, strawberries"
-Gammondale Farm,426 McCluskey Drive,Slate River,Ontario,Canada,,P7J 0B3,"807-475-5615, 888-705-4636","HORSE-DRAWN HAY/SLEIGH RIDES, FAMILY PARTIES, WEDDINGS & SCHOOL TOURS: Year-round by reservation. PUMPKINFEST, MAZES: 6 weekends late Sept & Oct. HAUNTED CORNFIELD: 2 weekends late October.",http://www.gammondalefarm.com,"gourds, pies, preserves, pumpkins, squash","gourds, pumpkins, squash","gourds, pumpkins, squash"
-Garrett's Farm Market & Greenhouse,824 Penetanguishene Rd.,Barrie,Ontario,Canada,,L4M 4Y8,705-721-1800,"Open Daily: 8am to 6pm, Fridays 8am to 8pm",,"corn, perennials",,
-Gillespie's Garden,"1043 Brantford Hwy, RR 5",Cambridge,Ontario,Canada,,N1R 5S6,519-622-2294,late July - mid September,,,,
-Hall's Apple Market,2930 2nd Concession Rd.,Brockville,Ontario,Canada,,K6V 5T1,613-342-6320,"Year Round, Daily 8 am - 5:30 pm (except Sun between Jan & July)",http://www.hallsapplemarket.com,apples,apples,apples
-Heeman Greenhouses & Strawberry Farm,"20422 Nissouri Rd., RR 2",London,Ontario,Canada,,N0M 2P0,519-461-1416/519-461-0555,8:00am - 8:00pm Mon-Fri | 8:00am - 5:00pm Sat-Sun,http://www.heeman.ca,"blueberries, cherries, raspberries, strawberries","raspberries, strawberries",strawberries
-Herrle's Country Farm Market,"1243 Erb's Rd., RR 1",St. Agatha,Ontario,Canada,,N0B 2L0,519-886-7576,June 20 - Oct 31: Mon - Fri: 8 - 7; Sat: 8 - 6; Sun: 9 - 5,http://www.herrles.com,"beans, peas, pumpkins, squash, strawberries","pumpkins, strawberries","pumpkins, strawberries"
-Hillsview Greenhouses & Market Produce,"37106 Belgrave Rd., RR 2",Lucknow,Ontario,Canada,,N0G 2H0,519-529-3653,"May - Oct: 9am - 6 pm weekdays, 9 am - 6 pm Sat., Closed Sundays",,,,
-Have Fun @ Howells,2878 Holland Rd.,Fonthill,Ontario,Canada,,L0S 1E6,905-892-3918,see website,http://www.Howellls.ca,"flowers, gourds, pies, squash",pumpkins,pumpkins
-Hugli's Blueberry Ranch,2139 Greenwood Rd.,Pembroke,Ontario,Canada,,K8A 6W2,613-638-1288,June 1 - Oct 31,http://www.blueberryranch.ca,"blueberries, pumpkins","blueberries, pumpkins","blueberries, pumpkins"
-Jakeman's Maple Products,"RR #1 454414 Trillium Line,",Beachville,Ontario,Canada,,N0J 1A0,800-382-9795/519-539-1366,"year round: Mon - Friday: 8:00 am to 4:30 pm, Sat: 10 am - 4 pm. Food Service: weekends in maple season",http://www.themaplestore.com,,,
-Janssens Farm Market & U Pick,"5885 Falconbridge Dr., RR 3",Appin,Ontario,Canada,,N0L 1A0,519-289-2499,year round: 8am - 8pm; winter 9am - 6pm,,"apples, cider","apples, beans, cucumbers, gooseberries, peppers, raspberries, strawberries, tomatoes","apples, beans, cucumbers, gooseberries, peppers, raspberries, strawberries, tomatoes"
-Johnston's Cranberry Marsh / Muskoka Lakes Winery,1074 Cranberry Road,Bala,Ontario,Canada,,P0C 1A0,705-762-3203,Year round. Mon - Sat: 9-5; Sun: 11-4. Food Service: food tent in October,http://www.cranberry.ca,"cranberries, wine",,
-Kurtz Orchards Market,"P.O. Box 457, 16006 Niagara Pkwy.",Niagara-on-the-Lake,Ontario,Canada,,L0S 1J0,905-468-2937,Daily 9 - 6,http://www.kurtzorchards.com,,,
-Lindley's Farm & Market Ltd.,900 Fiddlers Green Rd.,Ancaster,Ontario,Canada,,L9G 3L1,289-237-5614,May - Oct 31: Call for hours,http://www.lindleyfarm.com,vegetables,"pumpkins, raspberries, strawberries","pumpkins, raspberries, strawberries"
-McGregor's Produce,351 Lochwinnoch Road,Braeside,Ontario,Canada,,K0A 1G0,613-432-9726,Open 7 days a week from mid-June until October 31st,http://www.mcgregorsproduce.com,"pumpkins, raspberries, strawberries","beans, pumpkins, raspberries, strawberries, tomatoes","raspberries, strawberries"
-Nokara Farms,1090 Lakeshore Rd. W.,St. Catharines,Ontario,Canada,,L2R 6P9,905-937-0211,mid June - Thanksgiving weekend; Mon-Sat: 9:30 am - 6:30 pm; Sun: Call for hours; Host Groups: by appointment only,http://www.nokarafarms.ca,"peaches, pears, plums, strawberries, tomatoes",strawberries,strawberries
-Orchalaw Farms,"9726 Heritage Rd., RR 2",Brampton,Ontario,Canada,,L6X 0A2,905-456-1879,,http://www.orchalawfarms.com,apples,apples,apples
-Springridge Farm,"7256 Bell School Line,",Milton,Ontario,Canada,,L9T 2Y1,905-878-4908,"Open daily 9-5, April-December",http://www.springridgefarm.com,"gourds, pumpkins, strawberries","gourds, pumpkins, strawberries",Maze
-The Apple Factory,10024 Mississauga Road,Brampton,Ontario,Canada,,L7A 0B8,905-846-3715,"Open daily May-Oct: 9-6, Nov-Apr: 10-6",http://www.applefactory.com,"Sheldon Creek milk products, annuals, apples, apricots, asparagus, baked goods, beans, bedding plants, beef, beets, blackberries, blueberries, broccoli, brussel sprouts, cabbage, cantaloupe, carrots, cauliflower, cheese, cherries, cider, corn, cranberries, cucumbers, eggs, flowers, fudge, garlic, gift baskets, giftware, gourds, grapes, herbs, honey, jam/jellies, lamb, leafy greens, lettuce, maple syrup/products, melons, milk, mushrooms, nectarines, onions, parsnip, peaches, pears, peas, peppers, perennials, pies, plums, pork, potatoes, poultry/chicken, preserves, pumpkins, raspberries, rhubarb, spinach, squash, strawberries, sweet potatoes, tomatoes, turnip, vegetables, watermelons, zucchini",Bakery,
-Willowtree Farm Market,975 Durham Rd. 21,Port Perry,Ontario,Canada,,L9L 1B5,905-985-4973,June - Nov. Daily 8 am - 7 pm; Fall: 9 am - 6 pm,http://www.willowtreefarm.ca,"apples, beans, beef, blueberries, cider, cucumbers, gourds, honey, onions, peaches, peas, potatoes, pumpkins, raspberries, squash, strawberries, tomatoes","pumpkins, raspberries, strawberries","pumpkins, raspberries, strawberries"
-Peach Country Farm Market,4490 Victoria Ave.,Vineland Station,Ontario,Canada,,L0R 2E0,905-562-5602,"Open at 9:00 a.m, 7 days a week, July to October.",http://www.peachcountryfarmmarket.com,"apples, apricots, nectarines, peaches, plums, raspberries, squash, tomatoes","apples, apricots, nectarines, peaches, plums, raspberries, squash, tomatoes","Bakery, Food"
-Thatcher Farms,5727 5th Line Eramosa,Rockwood,,,,,519-856-4073,Open Thursday to Saturday from 10am to 5pm.,http://www.thatcher-farms.com,"beef, cheese, honey, pork",,
-VG Meats,966 Concession 6 Woodhouse Rd.,Simcoe,,,,,519-426-2000,We offer 2 locations with different hours throughout the year. Closed Sundays.,http://www.vgmeats.ca,,,
-Mountain Orchards,"10175 Clark Road, RR3",Mountain,Ontario,Canada,,K0E 1S0,613-989-5601,,http://www.mountainorchards.ca,,,
-Reesor Farm Market,10825 Ninth Line,Markham,Ontario,Canada,,L6B 1A8,905-640-4568,"June - October, 9 a.m. to 6:30 p.m.","http://www.reesorfarm.com,facebook.com/reesorfarmmarket","cheese, preserves","beans, peas, pumpkins, strawberries, tomatoes","pumpkins, strawberries"
-William's Orchard,10101 Hume Court,Milton,Ontario,Canada,,L9T 2X9,905-876-4220,,http://www.ruralroutes.com/williamsorchard,,,
-Vail's Orchards,205790 Hwy 26,Meaford,Ontario,Canada,,N4L 1W5,519-538-4474,"Sunday to Saturday, 8am to 6pm",,"apples, pears, pumpkins, squash",apples,
-Trembling Aspens Herb Farm,9689 Concession 3,Caistor Centre,Ontario,Canada,,L0R 1E0,905-957-3812,10am to 4pm alternate days from week to week.,,"beans, cabbage, cucumbers, honey, peppers, pumpkins, squash, tomatoes","beans, cabbage, cucumbers, gooseberries, peppers, pumpkins, squash, tomatoes",
-Creasy's Apple Dabble Farm,"3091 County Rd. 8, RR #4",Picton,Ontario,Canada,,K0K 2T0,613-476-5142,"Sept. 1 to mid-November, 9:00am to 5:00pm, 7 days a week.",,"apples, blueberries, cabbage, cucumbers, onions, pears, peppers, plums, pumpkins, squash, tomatoes","apples, blueberries, cabbage, cucumbers, onions, pears, peppers, plums, pumpkins, squash, tomatoes","apples, blueberries"
-White Feather Country Store,15 Raglan Rd. E.,Oshawa,Ontario,Canada,,L1H 7K4,905-655-4752,"Open Year Round, Monday to Wednesday 8:30 to 6:00, Thursday and Friday 8:30 to 8:00, Saturday 8:30 to 6:00, Sunday 10:00 to 5:00",http://www.whitefeatherfarms.com,"apples, corn, eggs, onions, pumpkins, raspberries, squash, strawberries, tomatoes","corn, eggs",
-Floralane Produce,2191 Arthur St. North,Elmira,Ontario,Canada,,N3B 2Z1,519-669-3154,"Open from March to December - Monday to Friday 8:30 to 7:00, Saturday 8:30 to 5:30.",,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, eggplant, flowers, onions, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","beans, beets, cabbage, corn, flowers, onions, peas, peppers, pumpkins, squash, strawberries, tomatoes",
-Franklin Farm Herbals and Market,1453 Fleetwood Dr.,Bethany,Ontario,Canada,,L0A 1A0,705-277-9800,Open from May to October Thursday to Sunday 10:00 am to 6:00 pm or by chance.,http://www.kawarthaherbs.blogspot.com,"beets, blueberries, carrots, cucumbers, flowers, honey, peaches, pears, peppers, raspberries, strawberries, tomatoes","herbs, honey, peppers, tomatoes",
-Dixie Orchards,14309 Dixie Rd.,Caledon,Ontario,Canada,,L7C 2M8,905-838-5888,"Open from Sept 1 to November 1, 7 days a week from 10 am to 6 pm",http://www.dixieorchards.com,"apples, beets, carrots, corn, currants, pears, pumpkins, raspberries, squash","apples, currants, pears, pumpkins, raspberries, squash","apples, raspberries"
-Brambleberry Farm,9 Mitchell Rd.,Quinte,,,,,613-398-8350,June to September,http://brambleberryfarm.ca,"blueberries, currants, gooseberries, raspberries, strawberries","blueberries, currants, gooseberries, raspberries, strawberries","blueberries, currants, gooseberries, raspberries, strawberries"
-Round the Bend Farm,16225 Jane St.,Kettleby,Ontario,Canada,,L7B0,905-727-0023,"Open from May to December- Monday to Friday: 9-6pm, Saturday 9-5pm, closed on Sunday",http://www.roundthebendfarm.com,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, flowers, onions, peaches, pears, peas, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","apples, beets, broccoli, cabbage, carrots, cauliflower, corn, flowers, onions, pumpkins, squash, tomatoes",Maze
-Bonnieheath Estate Lavender & Winery,410 Conc. 12 Townsend Rd.,Waterford,ON,Ontario,,N0E 1Y0,519-443-7125,"March to December with extended summer hours, visit our website for seasonal hours",http://www.bonnieheathestate.com,"apples, lavender",,
-Debackere Farms Inc.,5013 Yarmouth Centre Rd.,Union,Ontario,Canada,,N0L 2L0,519-476-4623,"7am to 6pm, 7 days a week",http://www.debackerefarms.ca,"apples, beans, corn, cucumbers, eggplant, onions, peaches, pears, peppers, plums, pumpkins, raspberries, squash, strawberries, tomatoes","beans, corn, cucumbers, eggplant, peppers, pumpkins, raspberries, squash, strawberries, tomatoes",
-The Poultry Place,1010 Three Bridges Rd.,St. Jacobs,Ontario,Canada,,N0B 2N0,519-664-3090,"Tuesday to Friday 8-5, Saturday 8 to 4, year round.",http://www.thepoultryplace.com,,,
-19th Ave. Farmers Market,2931 19th Avenue,Markham,Ontario,Canada,,L6C 1L7,905-887-8954,"Open from June to November, 8am to 6pm",http://www.toptomatofoods.ca,"apples, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, corn, cucumbers, eggplant, flowers, grapes, onions, peaches, pears, peas, peppers, plums, potatoes, pumpkins, raspberries, squash, strawberries, tomatoes, zucchini","beans, broccoli, cabbage, cauliflower, corn, cucumbers, eggplant, onions, peas, peppers, potatoes, pumpkins, squash, strawberries, tomatoes, zucchini",strawberries
-f.N. Happy Farm,439 Feasby Rd.,Uxbridge,Ontario,Canada,,L9P 1R1,905-862-0591,Victoria Day Weekend to Thanksgiving Weekend,http://www.fnhappyfarm.ca,,,
-Theadora's Orchard,5210 King Street,Beamsville,Ontario,Canada,,L0R 1B3,289-566-9664,,,,,
-Kent Kreek Berries,3173 Highway 3 West,R. R. #1 Simcoe,Ontario,Canada,,N3Y 4J9,519-426-0924,"Open 9am to 6pm, from mid-June to end of September, weekend in Sept. & October",http://www.kentkreekberries.com,"blueberries, pumpkins, raspberries, squash, strawberries, zucchini","blueberries, strawberries",
-Berryview Farm,13707 Heart Lake Rd.,Caledon,Ontario,Canada,,L7C 2K7,905-838-4777,"Sept 1 to Oct. 31, 10:00 - 5:30 daily except for Tuesdays",http://www.berryviewfarm.com,"apples, cider, pumpkins, squash","apples, pumpkins, squash","apples, pumpkins, squash"
-Harris Flower Farm,42488 Ron McNeil Line,St. Thomas,Ontario,Canada,,N5P 3T1,519-668-9537,Call ahead to talk about flowers for weddings and special events,http://www.harrisflowerfarmpasturedpork.weebly.com,"flowers, pork","flowers, pork",Weddings
-Speers Farms Amaranth,"245199 5th Sideroad, Amaranth, RR #7",Orangeville,Ontario,Canada,,L9W 2Z3,519-941-2708,,,beef,beef,
-Orchard Home Farm,235 Howell Rd.,St. George,Ontario,Canada,,N0E 1N0,519-448-1111,"Open from mid August to mid November, 9:00 am to 7:00 pm daily including weekends and holidays",http://www.orchardhomefarm.com,"apples, pears, pumpkins, squash","apples, pears, pumpkins, squash","apples, pears"
-Johnston's Farm Market,10704 County Rd. 28,Bailieboro,Ontario,Canada,,K0L 1B0,705-939-1737,"Market open from mid-June to November, 10am to 6pm, 7 days a week<br /> PYO berries in June<br /> Maple syrup is available all year round",http://www.johnstonsfarmmarket.ca,"beans, beets, broccoli, cabbage, carrots, cauliflower, corn, cucumbers, herbs, onions, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","beans, beets, broccoli, cabbage, carrots, cauliflower, corn, cucumbers, herbs, onions, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","raspberries, strawberries"
-Busy Liz's Farm Shop,8405 Guelph LIne,Campbellville,Ontario,Canada,,L0P 1B0,905-854-9957,The market is open from June to October and then again in December.,http://www.busyliz's.com,"beans, beets, carrots, corn, garlic, onions, peaches, pears, peas, preserves, pumpkins, squash, strawberries, tomatoes","beets, carrots, corn, garlic, onions, peas, pumpkins, squash, tomatoes",
-Oaklane Orchard,496445 Grey Rd. 2,Clarksburg,Ontario,Canada,,N0H 1J0,519-599-5841,Open Aug. 15 to Nov.30 - weather permitting. Daily from 9am to 6pm,,"apples, pears, plums","apples, plums","apples, plums"
-Cheer Farms,365 Main Street (Highway #2),Brighton,Ontario,Canada,,K0K 1H0,613-475-1174,"Open from June to December, daily 8am to 6pm",,"apples, beans, potatoes, pumpkins, squash, strawberries, tomatoes",,
-Delhaven Orchards Ltd.,8182 Talbot Trail,Blenheim,Ontario,Canada,,N0P 1A0,519-676-4475,"November 1 to June 3: Open 6 days a week from 8am to 5pm, July 1 to October 31: Open 7 days a week from 8am to 6pm",http://www.delhaven.com,"apples, blueberries, cherries, corn, honey, onions, peaches, pears, plums, pumpkins, raspberries, squash, strawberries, tomatoes","apples, cherries, peaches, pears, plums, strawberries",
-Farmtown Canada,46703 Mapleton Line,Aylmer,Ontario,Canada,,N5H 2R6,519-773-2292,"Open Tuesday to Saturday, 10-6",http://www.farmtowncanada.ca,"cider, cucumbers, eggs, flowers, herbs, honey, peppers, pumpkins, squash, tomatoes","cucumbers, flowers, herbs, peppers, pumpkins, squash, tomatoes",
-Breedon's Maple Syrup,3662 Conc. 3,Alliston,Ontario,Canada,,L9R 1V1,705-435-5269,In season-open 7 days a week from 10 to 5pm. Off season-please call ahead.,http://www.breedonsmaplesyrup.com,,,
-Frank E.'s,1936 Brant Rd. 4,Vanessa,Ontario,Canada,,N0E 1V0,519-446-1191,seasonal,http://www.frankesvanessa.com,"apples, ginseng, honey","apples, ginseng",
-Thiessen Orchards Ltd.,400 Talbot Road East,Leamington,Ontario,Canada,,N8H 3V6,519-326-5282,"Open the weekend after Labour Day, 7 days a week from 10 am to 5pm",http://www.thiessenorchards.com,"apples, pumpkins",Maze,
-Rose Family Farm,17569 Centre St.,Mount Albert,Ontario,Canada,,L0G 1M0,905-473-3574,"9am to 5pm, 7 days a week from May to October, Closed on Sundays and from November 1 to Victoria Day weekend.",,"beets, honey, onions, pies, potatoes, pumpkins, raspberries, strawberries","beets, potatoes, pumpkins, raspberries, strawberries","raspberries, strawberries"
-Sheldon Creek Dairy,4316 5th Concession,Loretto,Ontario,Canada,,L0G 1L0,705-434-0404,"Monday to Saturday, 10am to 6pm, Sunday 11am to 4pm",http://www.sheldoncreekdairy.ca,milk,milk,
-Abbey Gardens Community Trust,1012 Garden Gate Dr.,Haliburton,Ontario,Canada,,K0M 1S0,705-854-0356,"Open form May 1 to November 1, 9:00am to 3:00pm",http://www.abbeygardens.ca,,,
-Fisherville Greenhouses,294 Concession 5,Fisherville,Ontario,Canada,,N0A 1G0,905-779-0710,"Open from May to November, dawn to dusk at the road side stand, greenhouse hours are 8am to 3pm",http://www.fishervillegreenhouses.com,"pumpkins, tomatoes",,
-Foster Family Farm,2132 Lockhead Rd.,North Gower,Ontario,Canada,,K0A 2T0,613-489-1893,"Farm - 2132 Lockhead Rd., North Gower - open mid June to early July for PYO strawberries - Monday to Friday 7:00am to 7:00pm -Saturday 7:00am - 6:00pm -Sunday CLOSED Market- 333 Cedarview Rd., Nepean - open mid June to October 31st (Closed from after Labour Day to first of October) - Monday to Friday 10:00am - 6:00pm - Saturday 9:00am - 5:00pm -Sunday CLOSED Market - Canadian Tire Store parking lot, 2501 Greenbank Rd., Nepean -open mid June to Labour Day Saturday - Monday to Friday 10:00am - 6:00pm -Saturday 9:00am - 5:00pm -Sunday CLOSED",http://www.fosterfamilyfarm.ca,"beans, beets, broccoli, cabbage, carrots, cauliflower, cucumbers, onions, peas, peppers, pumpkins, squash, strawberries, tomatoes","beans, beets, broccoli, cabbage, carrots, cauliflower, cucumbers, onions, peas, peppers, pumpkins, squash, strawberries, tomatoes",strawberries
-Trillium Ridge Sugarworks,254 Maple Sugar Road,Shannonville,Ontario,Canada,,K0K 3A0,613-396-5141,"Open from February 14th to April 14th, seven days a week, 9am to 6pm or call fro an appointment",http://www.sugarworks.ca,,,
-Steward's Blueberries,238 Hwy #53,Burford,Ontario,Canada,,N0E 1A0,519-458-4176,"Mid July to the end of August, Monday to Saturday 8:00am to 9:00pm, Sundays 8:00am to 4:00pm",,blueberries,blueberries,blueberries
-Marci Lipman Country,487280 30th Sideroad,Shelburne,Ontario,Canada,,L0N 1S8,416-346-5511,,http://marcilipman.ca,honey,,
-Wilson's Fresh Blueberries,61 Settlement Rd.,Lindsay,Ontario,Canada,,K9V 4R5,705-799-0315,"In season, Saturdays from 9 am to 4 pm",http://www.wilsonsfreshblueberries.ca,blueberries,blueberries,blueberries
-Talbotville Berry Farm,11054 Sunset Road,St. Thomas,Ontario,Canada,,N5P 3T2,519-633-1488,,http://www.talbotvilleberryfarm.com,"beans, broccoli, cabbage, cauliflower, corn, cucumbers, gourds, melons, peas, pumpkins, raspberries, squash, strawberries, tomatoes","beans, broccoli, cabbage, cauliflower, corn, cucumbers, gourds, melons, peas, pumpkins, raspberries, squash, strawberries, tomatoes","pumpkins, raspberries, strawberries"
-Goldsmith's Orchard Market,207600 Hwy 26,Thornbury,Ontario,Canada,,N0H 2P0,519-599-3246,"Open from May 1st to November 29th, 7 days a week, from 9am to 6pm.",http://www.goldsmithsmarket.com,"apples, asparagus, beans, beef, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, cider, corn, eggs, flowers, herbs, honey, lettuce, melons, peaches, peas, peppers, pork, potatoes, pumpkins, raspberries, squash, strawberries, tomatoes","apples, beans, cabbage, cider, corn, flowers, herbs, melons, peas, potatoes, pumpkins, raspberries, squash, tomatoes",
-Serenity Lavender,130 Heritage Rd.,Harrow,,,,,519-980-4504,"Open Victoria day to Labour Day Weekend, Thursday to Sunday 10am - 5pm",http://www.serenitylavender.com,lavender,,
-Munro Honey & Meadery,3115 River Street,Alvinston,Ontario,Canada,,N0N 1A0,519-847-5333,Open Year Round: Jan.-Mar. Monday-Friday 9am-5pm Apr.-Dec. Monday -Saturday 9am-5pm Closed all Statutory Holidays,http://www.munrohoney.com,"giftware, honey",honey,
-Fresh and Tasty Mushrooms,475226 County Rd. 11,Shelburne,Ontario,Canada,,L0N 1S5,519-925-3215,,,,,
-South Pond Farms,1020 Gray Road,Pontypool,Ontario,Canada,,L0A 1K0,705-772-0609,dawn to dusk,http://www.southpondfarms.ca,"herbs, preserves, vegetables","herbs, vegetables","herbs, vegetables"
-Arrowwood Farm,6460 Riverside Drive,Melbourne,Ontario,Canada,,N0L 1T0,519-289-0389,"mid July to end of August, Monday to Saturday, 8am to 4pm",http://www.arrowwoodfarmontario.com,blueberries,blueberries,blueberries
-Barrett's Christmas Tree Farm,3141 Williamson Road,Cobourg,Ontario,Canada,,K9A 4J7,905-342-2622,Every day 9am to 5pm during the Christmas season,http://www.barrettstreefarm.ca,,,
-Masse Fruit and Vegetable Farm,35291 Zurich Hensall Rd.,Zurich,Ontario,Canada,,N0M 2T0,519-236-7907,"Open from mid-July to Nov 1., 10am to 6pm",,"apples, beans, corn, peaches, pumpkins, squash, strawberries, tomatoes",,
-Berrylicious Fruit Farm,425533 Substation Rd.,Burgessville,Ontario,Canada,,N0J 1C0,"519-424-3147, cell 519-76","Fall, Winter, Spring: by appointment only SUMMER: July to September: 8 am. to 6 p.m. Closed Sunday unless otherwise arranged.",http://www.berryliciousfruit.ca,"gourds, pumpkins","blueberries, pumpkins",
-Windwood Farms,4198 King Street East,Beamsville,Ontario,Canada,,L0R 1B1,905-401-0515,"Open from August 25 to November 3, 2012<br /> Weekends only - Saturday & Sunday 10am - 4:30pm",http://www.windwoodfarms.ca,"apples, gourds, pears, pies, plums, pumpkins, squash","apples, pears, pumpkins, squash",
-Olkaga Country Market,402346 Grey Rd. #4,Hanover,Ontario,Canada,,N4N 3B8,519-369-6729,"Open May to August, 7 days a week, 9am to 6pm Monday to Saturday, 12 noon to 4pm on Sunday.",http://www.olkagacountrymarket.ca,"beans, beets, blueberries, broccoli, carrots, cauliflower, corn, honey, onions, peaches, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","asparagus, strawberries",strawberries
-Thompson's Orchard,19863 Charing Cross Road,Blenheim,Ontario,Canada,,N0P 1A0,519-676-8464,"During season, open Monday to Saturday, 9 to 5",,"apples, peaches, pears, plums, pumpkins, squash","apples, peaches, pears, plums, pumpkins, squash",
-Lake Land Meats & Farm Market,1226 St. Paul St. W.,St. Catharines,Ontario,Canada,,L2R 6P7,905-688-4570,"noon to 5 pm, June to October - daily, November to May - Tuesday to Saturday",http://www.lakelandmeats.com,,,
-Blueberry Knoll Berry Farm,"1090 Hutchinson Rd., RR #1",Lowbanks,Ontario,Canada,,N0A 1K0,905-774-7732,"In Season...Monday to Thursday 8am to 8pm, Friday and Saturday 8am to 6pm",http://www.blueberryknoll.com,"blueberries, corn, raspberries, strawberries","blueberries, corn, raspberries, strawberries","blueberries, raspberries, strawberries"
-Landman Gardens & Bakery,322345 Concession 6-7,Grand Valley,Ontario,Canada,,L0N 1G0,519-928-3275,Fridays 10 am - 4 pm Saturdays 10 am - 4 pm,http://www.landmangardens.ca,"apples, beans, beets, carrots, cucumbers, onions, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes",,
-Oak Knoll Farms,5754 3rd Line,HIllsburgh,Ontario,Canada,,N0B 1Z0,519-855-4682,open year round by appointment,http://oakknollfarms.ca,"lamb, preserves",lamb,
-Pine Hill Orchards,1818 St. Felix Rd.,Bourget,Ontario,Canada,,K0A 1E0,613-791-9979,seasonally 7 days a week from September to October,,"apples, grapes, honey, plums, raspberries","apples, grapes, honey, plums, raspberries","apples, grapes, plums, raspberries"
-Greenshire Eco Farms Inc.,1563 Pigeon Lake Rd.,Lindsay,Ontario,Canada,,K9V 4R5,705-879-4207,,http://www.greenshireecofarms.com,"asparagus, beans, beets, carrots, corn, cucumbers, eggplant, garlic, onions, peas, peppers, squash, tomatoes",,
-Mitchdale Farms,963229 Road 96,St. Marys,Ontario,Canada,,N4X 1C5,519-349-2271,"9am to 7pm from July to mid-August- 7 days a week, by appointment or chance year round",,raspberries,,
-Sweet Ridge Farms,8327 Steeles Ave. E.,Scarborough,Ontario,Canada,,M1X 1P2,416-992-9561,In seaon: Monday to Saturday,,,,
-Vandermeer Nursery Ltd.,588 Lakeridge Rd. S.,Ajax,Ontario,Canada,,L1Z 1X3,905-427-2525,check website www.vandermeernursery.com for details Open 7 days a week,http://www.vandermeernursery.com,perennials,perennials,
-Crunican Orchards,23840 Richmond St.,London,Ontario,Canada,,N0M 1P0,519-666-0286,,,"apples, cider, pears",,
-Pardo's Berie Farm,7951 Talbot Trail,Blenheim,Ontario,Canada,,N0P 1A0,519-676-2008,"Open from June to September, Monday to Thursdya from 8:00am to 8:00pm, Friday to Sunday from 8:00am to 6:00pm",http://www.pardosberriefarm.com,"beans, blackberries, corn, honey, peaches, peppers, raspberries, strawberries","beans, blackberries, peaches, peas, peppers, raspberries, strawberries","beans, peaches, peas, raspberries, strawberries"
-Top Market Rabbitry,5887 Splint Rd.,Ariss,Ontario,Canada,,N0B 1B0,519-716-9464,"Open year round - Monday to Friday 11:00am to 6:00pm, Saturday 10:00am to 4:00pm, Sunday 10:00am to 12:00pm",http://www.topmarketrabbitry.ca,,,
-Stonefield Garden Centre & Market Ltd.,77688 Orchard Line,Bayfield,Ontario,Canada,,N0M 1G0,519-482-3020,"April 20, 2012 to October 31, 2012 from 8am to 6pm",http://stonefieldgardencentre.ca,"beans, corn, cucumbers, flowers, onions, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","beans, pumpkins, raspberries, rhubarb, strawberries, tomatoes",
-Meadow Lynn Farms,144 Decou Rd.,Simcoe,Ontario,Canada,,N3Y 4K2,519-426-4461,"8am to 8pm, 7 days a week in season",,strawberries,strawberries,strawberries
-Voisin's Maple Products Ltd.,706 Concession 10,Formosa,Ontario,Canada,,N0G 1W0,519-392-8126,Monday to Thursday 8am-4:30pm,http://www.vmaple.com,,,
-Apple Hill Lavender,1795 Windham Rd. 11,RR #1 Windham Centre,Ontario,Canada,,N0E 2A0,519-426-1841,"Open May to December 31, Wednesday to Sunday from 10am to 5pm",http://www.applehilllavender.com,"apples, lavender","apples, lavender",
-Carron Farms Ltd.,819 Canal Rd.,Bradford,Ontario,Canada,,L3Z 2A6,905-775-2432,Open Year Round,http://www.carronfarms.ca,"beets, onions",,
-Dyment's Farm,416 Fallsview Road East,Dundas,Ontario,Canada,,L9H 5E2,905-627-5477,"Open year round, 7 days a week, 10am to 7pm",http://www.dyments.com,"corn, pumpkins","corn, pumpkins",pumpkins
-Miller's Bay Farm,65 Rideau Ferry Rd.,Lombardy,Ontario,Canada,,K0G 1L0,613-283-0205,Open Monday to Saturday from 9:00 am to dusk,http://www.millersbayfarm.com,"beans, beets, carrots, corn, onions, pumpkins, squash, strawberries, tomatoes","beans, beets, carrots, corn, onions, pumpkins, squash, strawberries, tomatoes",strawberries
-Cristan Farms,494 Winston Churchill Blvd.,Oakville,Ontario,Canada,,L6J 7X2,905-844-6757,Open from July 6 to November 9; 10am to 5pm daily.,http://facebook.com/cristanfarms,"apples, cherries, currants, gooseberries, peaches, pears, peppers, plums, potatoes, pumpkins, raspberries, squash, tomatoes",,
-Earthly Delights,35 Biggars Lane,Mount Pleasant,Ontario,Canada,,N0E 1K0,519-732-3477,,http://www.facebook.com/daniellesvegetables,flowers,flowers,
-Graham Creek Farm,3582 Morgans Road,Newcastle,,,,L1B 1L9,905-987-1447,,http://GrahamCreekFarm.com,"beef, goat , lamb, pork, poultry/chicken","beef, goat , lamb, pork, poultry/chicken","Food, Groups"
-Ferguson Farms Fresh Produce,7994 Mill St.,Garden Hill,Ontario,Canada,,L0A 1B0,289-251-6403,,,"apples, asparagus, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, cherries, cider, corn, flowers, herbs, honey, maple syrup/products, melons, peaches, peas, peppers, pumpkins, raspberries, squash, strawberries, tomatoes","asparagus, beans, beets, blueberries, broccoli, cabbage, carrots, cauliflower, corn, flowers, herbs, maple syrup/products, melons, peas, peppers, pumpkins, tomatoes",
-Strickland's Perennial Farm,5467 Middle Road,Bowmanville,Ontario,Canada,,L1C 3K2,905-263-2772,,http://www.stricklands-farm.com,flowers,flowers,Groups
+name,street
+Allison's Farm Market,"RR 2, 10636 8th Line"
+Andrew's Scenic Acres & Scotch Block Winery,9365 10th Sideroad
+Archibald Orchards & Estate Winery,"RR 5, 6275 Liberty St.N."
+Three Roads Farms Ltd.,2415 County Road #2
+Matz Fruit Barn,Norfolk 6 525 Hwy 6
+Belluz Farms,752 Candy Mountain Drive
+Bennett's Apples & Cider,944 Garner Road East
+Bickles Orchard Park Farms,596633 County Road #59
+Blyleven Farms,"1028 Hutchson Rd., RR 1"
+Lincoln Line Orchards,"9764 Reg. Rd. 20, RR 1"
+Brooks Farms,"122 Ashworth Rd, RR 3"
+Burnham Family Farm Market,7760 County Rd 2
+Campbell's Orchard,1633 County Rd. #3
+Lakeshore Farms,"475 Main St., RR 1"
+Chappell Farms,617 Penetanguishene Rd.
+Thames River Melons Ltd.,765875 Township Road 5 RR 2
+Chudleigh's Apple Farm,9528 Regional Road #25
+Shearlea AcresFarm Market,"3826 Hwy 99, RR 2"
+T & K Ferri Orchards,496415 Grey Rd. 2
+Leisure Farms,744 Quesnel Rd
+Parkside Farms,519 Parkside Dr.
+Harvest Barn of Niagara,1822 Niagara Stone Rd.
+Downey's Farm Market,"13682 Heart Lake Rd,"
+Ego's Farm Market & Greenhouse,"596 Horseshoe Valley Rd.E, RR 4"
+Ferguson Produce,"11026 Wellington Rd., RR 6"
+Millers' Farm and Market,6158 Rideau Valley Drive
+Morrison Berries Country Market,"Hwy 86, RR 1"
+Valleyview Little Animal Farm,"4750 Fallowfield Rd.,"
+Apple Land Station,329 Richmond St.
+Nauman's Farm,3250 Hessen Strasse
+Bayfield Berry Farm,"77697 Orchard Line, RR 1"
+Nith Valley Apiaries,1041 Christner Road
+Vito's Fresh Fruit,"950 Creek Rd., RR 4"
+Parks Blueberries,"14815 Longwoods Rd. N., RR 3"
+Brantwood Farm,251 Powerline Rd.
+The Cider Keg,"1398 Vittoria Rd., RR 1"
+Pingle's Farm Market,"1805 Taunton Rd. E., RR 1"
+Proulx Sugarbush & Berry Farm,1865 O'Toole Rd.
+Puddicombe Farms,1468 #8 Hwy.
+McCully's Hill Farm Market,"4074 Perth Line 9, RR 2"
+Silver Creek Nursery,2343 Gerber Rd.
+Comolea Farms,115026 27-28 Sideroad
+Richmond Nursery Berry Farm,5740 Richmond Rd.
+Pine Farms Orchard,2700 16th Sideroad
+Valley Farm Market,"2457 County Rd. 92, RR 2"
+Saunders Farm,"7893 Bleeks Rd., PO Box 356"
+"""R"" Farm",3388 Concession 3
+Cricklewood Farm,"27 Grandview Rd., RR 4"
+Twinkle Berry Farms,8900 Main St.
+Koteles Farms Limited,164700 New Road
+Smith's Apples & Farm Market,"470 The River Rd., RR 3"
+Wilmot Orchards Inc.,"3337 Concession Rd. 3, RR 8"
+Strom's Farm & Bakery Inc.,5089 Wellington Rd. #32
+Stroud Farms,4075 Lakeridge Rd.
+Bowman's Berry Patch,211259 Garden Rd.
+Acorn Creek Garden Farm & Market,"928 Oak Creek Rd., RR 3"
+Waterhall Farm,1413 Brock Rd. RR #4
+Thiessen Farms,4132 15th St.
+Tiveron Farms Ltd./ The Apple Market,2281 Camilla Rd.
+Nicholyn Farms,"3088 Horseshoe Valley Rd. W., RR 2"
+Algoma Orchards Ltd.,201 Regional Rd. 42
+Murphy's Country Produce,2040 Guyatt Road
+Watson Farms Ltd.,2287 HIghway #2
+Empire Valley Farm Market,"27983 Talbot Line, RR 1"
+Whittamore's Farm,8100 Steeles Ave. E.
+Whitty Farms,1776 Fourth Ave.
+Willis Family Fruit Farm,6063 Fifth Line
+Spirit Tree Estate Cidery,1137 Boston Mills Rd.
+Zekveld's Garden Market,"4622 London Line, RR 1"
+Jack's Produce,35 Agincourt Cres.
+Sahota Farms,14392 Torbram Rd.
+Korny Korners Farm,6193 Blackwell Sd. Rd.
+Elfsong Apiaries,Box 816
+Strawberry Tyme Farms Inc.,RR 2
+Meier Family Organic Farm,191 River Road
+Elberta Farms,353 Governors Rd. East
+Bry-Anne Farms,"471 Foss Rd., RR 5"
+Wagon Wheel Produce & Corn Maze,"1371 Charlotteville Rd.7, RR #6"
+Great Lakes Farms,5111 Union Rd.
+McMaze,17049 Willy Allan Rd. RR 1
+Crinklaw Maple Products,4570 Westminister Dr.
+Neubrand Country Produce,"RR 2, 6584 Line 49"
+Cooper's CSA Farm & Maze,266 Ashworth Rd.
+Farintosh Farms,11858 Warden Ave.
+Josmar Acres,568 Lynden Rd.
+Giffen's Country Market,55 Station St.
+Barbetta Orchards Ltd.,RR#3
+Avonmore Berry Farm Inc.,16365 4 Rd
+Stanleys Olde Maple Lane Farm,2452 Yorks Corners Rd.
+Your Farm Market (YFM),1147 Dundas St. E.
+Richardson's Corn Maze & Farm Market,"131 River Rd., RR #4"
+Wheelbarrow Orchards/Harvest Goodies,"8277 10th Sideroad, RR #3"
+Mapleton's Organic Dairy Inc.,8548 Wellington Rd. #7
+Hudson's Sweet Corn/Panmure Farms,2831 Upper Dwyer Hill Rd.
+Bill's Turkey Farm,2978 Holborn Rd.
+Jardin Rochon Garden,1101 York's Corner's Road
+White Meadows Farms,2519 Effingham St.
+Meadow Sweet Farm,12102 Warden Ave.
+Clovermead Bees & Honey,11302 Imperial Road. (Hwy #73)
+Shantz Family Farm,1544 Bleams Rd.
+Rounds Ranch,1922 County Road 92
+Waddell Apples,1345 Washburn Road
+Lennox Farm,518024 County Road 124
+Everdale Organic Farm & Environmental Learning Centre,5812 6th Line
+Homestead Orchards,3961 Old Homestead Rd.
+Goats in Motion,1988 Hwy 5 West
+Sunnivue Farm Inc.,27093 New Ontario Rd.
+Warner's Farm,4045 John St.
+Red Cat Farm,82560 Bluewater Hwy
+Shouldice Berry Farm & Market,3 locations in Ottawa
+Integrated Farms,5091 Line 10
+Fulton's Pancake House & Sugar Bush,399 Sugar Bush Rd.
+From the Meadow,3881 Avon Dr.
+Peart's Strawberry Farm,3545 River Rd.
+McLean Berry Farm,"2191 16th Line of Smith, RR #1"
+Grassroots CSA,"736 Bruce Rd. 86, RR#1"
+Harris Farms,3216 George Johnston Rd.
+Sovereign Farms,130 Lutesville Rd.
+Staite's Honey Enterprise,244 Ashworth Rd.
+Daniel's Farm,73 Stephen Drive
+Strawberry Creek Farms,118 Crittenden Drive
+Berry Hill Fruit Farm,48937 Glencolin Line
+Stonehaven Farm Market,"7388 Guelph Line, RR #3"
+Mountainoak Cheese Ltd.,3165 Huron Rd.
+The Farm-acy,148 6th Concession Rd. E.
+Jennen Family Farm Market,"11775 Baseline Rd., RR #7"
+Martin's Family Fruit Farm Ltd.,"1420 Lobsinger Line,"
+Fraberts Fresh Food,"105 Queen Street West, Unit #3"
+Hewitt's Sweet Corn,"3331 Townline, RR #5"
+Linton's Farm Market,571 Raglan Rd. E.
+Murphy's Farm Market and Bakery,5163 Simcoe Rd. 10
+Wholesome Pickins,472 Church St. E.
+Godelie Family Farm,225754 Otterville Rd.
+Carl Fletcher,3 Applegate Lane
+Tincap Berry Farm,4035 County Rd. 29
+Snyders Family Farm Ltd.,936685 Blenheim Rd.
+DeVries Fruit Farm,"825 Canboro Rd., PO Box 143"
+Kilmarnock Orchard,1182 Kilmarnock Rd.
+Cherrylane,4230 Victoria Avenue
+R Family Farm,3560 3rd Line
+Howe Family Farm Market,7841 Rodgers Road
+Traynor Beef Farms,2193 County Rd. #2
+Potters Road Berries,"145476 Potters Road, RR #2"
+River Road Farms,652 River Road
+Bauman Apiaries,6927 Nicklin St.
+Burrow/Kosir Farm,6325 Fifth Line
+SamGra Acres,3764 Windham West Quarter Town Line
+Oakridge Acres Country Meat Store,"2132 Greenfield Rd., RR #1"
+Leaping Deer Adventure Farm & Market,544212 Clarke Rd.
+West Moira Orchards/McCaw Farms,537 Moira St. West
+Organics Family Farm,7550 19th Avenue
+Fields on West Lake,15786 Loyalist Parkway
+Fort Rose Maple Company,"27382 Coldstream Rd.,"
+The Red Barn Fruit Farm,8651 Townsend Line
+Binnendyk Orchard,332700 Plank Line
+Torry Lane Farm-Mille de Fleurs,1281 10th Concession West
+Rutherford's Farm & Roadside Market,205 King Street East
+Applewood Farm Winery,12416 McCowan Rd.
+Marlin Orchards & Garden Centre,6864 Orchard Rd.
+Mosborough Country Market,5284 Wellington County Rd 32
+Rowen's,121 Robinson Rd.
+Powell's Patch Blueberries,"37 Gilbert Rd., RR #3"
+Dickey Bee Honey Inc.,4031 3rd Line
+Meleg's Lakeview Orchard,158 Arner Townline
+Steckle's Produce and Flowers,5857 Hwy 89
+Hotchkiss Homestead,51240 John Wise Line
+Adel Farms Inc.,4172 Tecumseh Line
+Hipple Farms Limited,"4275 Maple Grove Rd,"
+Pieter's Appleyard,"13516 County Rd. 2, RR #4"
+Aylmer Big Apple Orchard Corp.,11766 Imperial Rd. RR #4
+Kent Creek Orchard,1725 McDowell Rd. E.
+Board's Honey Farm,6866 Hwy. 534
+Tigchelaar Berry Farms,4171 Jordan Rd.
+R.V. Farm,7243 County Road 9
+O'Keefe Grange,1070 Conc. 2 Arran
+Gallery on the Farm,1721 Regional Road 3
+Corn Acre Farms / Wendy's Country Market,1757 Summers Rd.
+Dingo Farms,3412 8th Line
+Moore Orchards,1497 Moore Orchard Road
+The Farmer's Pantry,788030 Grey Road 13
+VanDorp Farms,3260 County Road 28
+Freeman Herbs Inc.,4838 Lincoln Ave.
+Snowden Farms,1576 Concession Rd. 7
+Steed and Company Lavender,47589 Sparta Line
+Geissberger Farmhouse Cider,5345 Langmaid Road
+Heatherlea Farm Shoppe,17049 Winston Churchill Blvd.
+Tawse Winery,3955 Cherry Ave.
+Sunshine Farms,30043 Jane Road
+Albion Orchards Apple Farm & Country Market,14800 Innis Lake Rd.
+Barrie Hill Farms,"2935 Barrie Hill Rd., RR 2"
+Brantview Apples & Cider,225 Howell Rd.
+Hulshof Farm Market,5538 Bloomington Road
+Forsythe Family Farms 2009 Inc.,1025 Cragg Rd.
+Haute Goat,1969 Burnbrae Rd. East
+Frootogo Orchards,573 Parkside Drive
+Gammondale Farm,426 McCluskey Drive
+Garrett's Farm Market & Greenhouse,824 Penetanguishene Rd.
+Gillespie's Garden,"1043 Brantford Hwy, RR 5"
+Hall's Apple Market,2930 2nd Concession Rd.
+Heeman Greenhouses & Strawberry Farm,"20422 Nissouri Rd., RR 2"
+Herrle's Country Farm Market,"1243 Erb's Rd., RR 1"
+Hillsview Greenhouses & Market Produce,"37106 Belgrave Rd., RR 2"
+Have Fun @ Howells,2878 Holland Rd.
+Hugli's Blueberry Ranch,2139 Greenwood Rd.
+Jakeman's Maple Products,"RR #1 454414 Trillium Line,"
+Janssens Farm Market & U Pick,"5885 Falconbridge Dr., RR 3"
+Johnston's Cranberry Marsh / Muskoka Lakes Winery,1074 Cranberry Road
+Kurtz Orchards Market,"P.O. Box 457, 16006 Niagara Pkwy."
+Lindley's Farm & Market Ltd.,900 Fiddlers Green Rd.
+McGregor's Produce,351 Lochwinnoch Road
+Nokara Farms,1090 Lakeshore Rd. W.
+Orchalaw Farms,"9726 Heritage Rd., RR 2"
+Springridge Farm,"7256 Bell School Line,"
+The Apple Factory,10024 Mississauga Road
+Willowtree Farm Market,975 Durham Rd. 21
+Peach Country Farm Market,4490 Victoria Ave.
+Thatcher Farms,5727 5th Line Eramosa
+VG Meats,966 Concession 6 Woodhouse Rd.
+Mountain Orchards,"10175 Clark Road, RR3"
+Reesor Farm Market,10825 Ninth Line
+William's Orchard,10101 Hume Court
+Vail's Orchards,205790 Hwy 26
+Trembling Aspens Herb Farm,9689 Concession 3
+Creasy's Apple Dabble Farm,"3091 County Rd. 8, RR #4"
+White Feather Country Store,15 Raglan Rd. E.
+Floralane Produce,2191 Arthur St. North
+Franklin Farm Herbals and Market,1453 Fleetwood Dr.
+Dixie Orchards,14309 Dixie Rd.
+Brambleberry Farm,9 Mitchell Rd.
+Round the Bend Farm,16225 Jane St.
+Bonnieheath Estate Lavender & Winery,410 Conc. 12 Townsend Rd.
+Debackere Farms Inc.,5013 Yarmouth Centre Rd.
+The Poultry Place,1010 Three Bridges Rd.
+19th Ave. Farmers Market,2931 19th Avenue
+f.N. Happy Farm,439 Feasby Rd.
+Theadora's Orchard,5210 King Street
+Kent Kreek Berries,3173 Highway 3 West
+Berryview Farm,13707 Heart Lake Rd.
+Harris Flower Farm,42488 Ron McNeil Line
+Speers Farms Amaranth,"245199 5th Sideroad, Amaranth, RR #7"
+Orchard Home Farm,235 Howell Rd.
+Johnston's Farm Market,10704 County Rd. 28
+Busy Liz's Farm Shop,8405 Guelph LIne
+Oaklane Orchard,496445 Grey Rd. 2
+Cheer Farms,365 Main Street (Highway #2)
+Delhaven Orchards Ltd.,8182 Talbot Trail
+Farmtown Canada,46703 Mapleton Line
+Breedon's Maple Syrup,3662 Conc. 3
+Frank E.'s,1936 Brant Rd. 4
+Thiessen Orchards Ltd.,400 Talbot Road East
+Rose Family Farm,17569 Centre St.
+Sheldon Creek Dairy,4316 5th Concession
+Abbey Gardens Community Trust,1012 Garden Gate Dr.
+Fisherville Greenhouses,294 Concession 5
+Foster Family Farm,2132 Lockhead Rd.
+Trillium Ridge Sugarworks,254 Maple Sugar Road
+Steward's Blueberries,238 Hwy #53
+Marci Lipman Country,487280 30th Sideroad
+Wilson's Fresh Blueberries,61 Settlement Rd.
+Talbotville Berry Farm,11054 Sunset Road
+Goldsmith's Orchard Market,207600 Hwy 26
+Serenity Lavender,130 Heritage Rd.
+Munro Honey & Meadery,3115 River Street
+Fresh and Tasty Mushrooms,475226 County Rd. 11
+South Pond Farms,1020 Gray Road
+Arrowwood Farm,6460 Riverside Drive
+Barrett's Christmas Tree Farm,3141 Williamson Road
+Masse Fruit and Vegetable Farm,35291 Zurich Hensall Rd.
+Berrylicious Fruit Farm,425533 Substation Rd.
+Windwood Farms,4198 King Street East
+Olkaga Country Market,402346 Grey Rd. #4
+Thompson's Orchard,19863 Charing Cross Road
+Lake Land Meats & Farm Market,1226 St. Paul St. W.
+Blueberry Knoll Berry Farm,"1090 Hutchinson Rd., RR #1"
+Landman Gardens & Bakery,322345 Concession 6-7
+Oak Knoll Farms,5754 3rd Line
+Pine Hill Orchards,1818 St. Felix Rd.
+Greenshire Eco Farms Inc.,1563 Pigeon Lake Rd.
+Mitchdale Farms,963229 Road 96
+Sweet Ridge Farms,8327 Steeles Ave. E.
+Vandermeer Nursery Ltd.,588 Lakeridge Rd. S.
+Crunican Orchards,23840 Richmond St.
+Pardo's Berie Farm,7951 Talbot Trail
+Top Market Rabbitry,5887 Splint Rd.
+Stonefield Garden Centre & Market Ltd.,77688 Orchard Line
+Meadow Lynn Farms,144 Decou Rd.
+Voisin's Maple Products Ltd.,706 Concession 10
+Apple Hill Lavender,1795 Windham Rd. 11
+Carron Farms Ltd.,819 Canal Rd.
+Dyment's Farm,416 Fallsview Road East
+Miller's Bay Farm,65 Rideau Ferry Rd.
+Cristan Farms,494 Winston Churchill Blvd.
+Earthly Delights,35 Biggars Lane
+Graham Creek Farm,3582 Morgans Road
+Ferguson Farms Fresh Produce,7994 Mill St.
+Strickland's Perennial Farm,5467 Middle Road
+Allison's Farm Market,
+Andrew's Scenic Acres & Scotch Block Winery,
+Archibald Orchards & Estate Winery,
+Three Roads Farms Ltd.,
+Matz Fruit Barn,
+Belluz Farms,
+Bennett's Apples & Cider,
+Bickles Orchard Park Farms,
+Blyleven Farms,
+Lincoln Line Orchards,
+Brooks Farms,
+Burnham Family Farm Market,
+Campbell's Orchard,
+Lakeshore Farms,
+Chappell Farms,
+Thames River Melons Ltd.,
+Chudleigh's Apple Farm,
+Shearlea AcresFarm Market,
+T & K Ferri Orchards,
+Leisure Farms,
+Parkside Farms,
+Harvest Barn of Niagara,
+Downey's Farm Market,
+Ego's Farm Market & Greenhouse,
+Ferguson Produce,
+Millers' Farm and Market,
+Morrison Berries Country Market,
+Valleyview Little Animal Farm,
+Apple Land Station,
+Nauman's Farm,
+Bayfield Berry Farm,
+Nith Valley Apiaries,
+Vito's Fresh Fruit,
+Parks Blueberries,
+Brantwood Farm,
+The Cider Keg,
+Pingle's Farm Market,
+Proulx Sugarbush & Berry Farm,
+Puddicombe Farms,
+McCully's Hill Farm Market,
+Silver Creek Nursery,
+Comolea Farms,
+Richmond Nursery Berry Farm,
+Pine Farms Orchard,
+Valley Farm Market,
+Saunders Farm,
+"""R"" Farm",
+Cricklewood Farm,
+Twinkle Berry Farms,
+Koteles Farms Limited,
+Smith's Apples & Farm Market,
+Wilmot Orchards Inc.,
+Strom's Farm & Bakery Inc.,
+Stroud Farms,
+Bowman's Berry Patch,
+Acorn Creek Garden Farm & Market,
+Waterhall Farm,
+Thiessen Farms,
+Tiveron Farms Ltd./ The Apple Market,
+Nicholyn Farms,
+Algoma Orchards Ltd.,
+Murphy's Country Produce,
+Watson Farms Ltd.,
+Empire Valley Farm Market,
+Whittamore's Farm,
+Whitty Farms,
+Willis Family Fruit Farm,
+Spirit Tree Estate Cidery,
+Zekveld's Garden Market,
+Jack's Produce,
+Sahota Farms,
+Korny Korners Farm,
+Elfsong Apiaries,
+Strawberry Tyme Farms Inc.,
+Meier Family Organic Farm,
+Elberta Farms,
+Bry-Anne Farms,
+Wagon Wheel Produce & Corn Maze,
+Great Lakes Farms,
+McMaze,
+Crinklaw Maple Products,
+Neubrand Country Produce,
+Cooper's CSA Farm & Maze,
+Farintosh Farms,
+Josmar Acres,
+Giffen's Country Market,
+Barbetta Orchards Ltd.,
+Avonmore Berry Farm Inc.,
+Stanleys Olde Maple Lane Farm,
+Your Farm Market (YFM),
+Richardson's Corn Maze & Farm Market,
+Wheelbarrow Orchards/Harvest Goodies,
+Mapleton's Organic Dairy Inc.,
+Hudson's Sweet Corn/Panmure Farms,
+Bill's Turkey Farm,
+Jardin Rochon Garden,
+White Meadows Farms,
+Meadow Sweet Farm,
+Clovermead Bees & Honey,
+Shantz Family Farm,
+Rounds Ranch,
+Waddell Apples,
+Lennox Farm,
+Everdale Organic Farm & Environmental Learning Centre,
+Homestead Orchards,
+Goats in Motion,
+Sunnivue Farm Inc.,
+Warner's Farm,
+Red Cat Farm,
+Shouldice Berry Farm & Market,
+Integrated Farms,
+Fulton's Pancake House & Sugar Bush,
+From the Meadow,
+Peart's Strawberry Farm,
+McLean Berry Farm,
+Grassroots CSA,
+Harris Farms,
+Sovereign Farms,
+Staite's Honey Enterprise,
+Daniel's Farm,
+Strawberry Creek Farms,
+Berry Hill Fruit Farm,
+Stonehaven Farm Market,
+Mountainoak Cheese Ltd.,
+The Farm-acy,
+Jennen Family Farm Market,
+Martin's Family Fruit Farm Ltd.,
+Fraberts Fresh Food,
+Hewitt's Sweet Corn,
+Linton's Farm Market,
+Murphy's Farm Market and Bakery,
+Wholesome Pickins,
+Godelie Family Farm,
+Carl Fletcher,
+Tincap Berry Farm,
+Snyders Family Farm Ltd.,
+DeVries Fruit Farm,
+Kilmarnock Orchard,
+Cherrylane,
+R Family Farm,
+Howe Family Farm Market,
+Traynor Beef Farms,
+Potters Road Berries,
+River Road Farms,
+Bauman Apiaries,
+Burrow/Kosir Farm,
+SamGra Acres,
+Oakridge Acres Country Meat Store,
+Leaping Deer Adventure Farm & Market,
+West Moira Orchards/McCaw Farms,
+Organics Family Farm,
+Fields on West Lake,
+Fort Rose Maple Company,
+The Red Barn Fruit Farm,
+Binnendyk Orchard,
+Torry Lane Farm-Mille de Fleurs,
+Rutherford's Farm & Roadside Market,
+Applewood Farm Winery,
+Marlin Orchards & Garden Centre,
+Mosborough Country Market,
+Rowen's,
+Powell's Patch Blueberries,
+Dickey Bee Honey Inc.,
+Meleg's Lakeview Orchard,
+Steckle's Produce and Flowers,
+Hotchkiss Homestead,
+Adel Farms Inc.,
+Hipple Farms Limited,
+Pieter's Appleyard,
+Aylmer Big Apple Orchard Corp.,
+Kent Creek Orchard,
+Board's Honey Farm,
+Tigchelaar Berry Farms,
+R.V. Farm,
+O'Keefe Grange,
+Gallery on the Farm,
+Corn Acre Farms / Wendy's Country Market,
+Dingo Farms,
+Moore Orchards,
+The Farmer's Pantry,
+VanDorp Farms,
+Freeman Herbs Inc.,
+Snowden Farms,
+Steed and Company Lavender,
+Geissberger Farmhouse Cider,
+Heatherlea Farm Shoppe,
+Tawse Winery,
+Sunshine Farms,
+Albion Orchards Apple Farm & Country Market,
+Barrie Hill Farms,
+Brantview Apples & Cider,
+Hulshof Farm Market,
+Forsythe Family Farms 2009 Inc.,
+Haute Goat,
+Frootogo Orchards,
+Gammondale Farm,
+Garrett's Farm Market & Greenhouse,
+Gillespie's Garden,
+Hall's Apple Market,
+Heeman Greenhouses & Strawberry Farm,
+Herrle's Country Farm Market,
+Hillsview Greenhouses & Market Produce,
+Have Fun @ Howells,
+Hugli's Blueberry Ranch,
+Jakeman's Maple Products,
+Janssens Farm Market & U Pick,
+Johnston's Cranberry Marsh / Muskoka Lakes Winery,
+Kurtz Orchards Market,
+Lindley's Farm & Market Ltd.,
+McGregor's Produce,
+Nokara Farms,
+Orchalaw Farms,
+Springridge Farm,
+The Apple Factory,
+Willowtree Farm Market,
+Peach Country Farm Market,
+Thatcher Farms,
+VG Meats,
+Mountain Orchards,
+Reesor Farm Market,
+William's Orchard,
+Vail's Orchards,
+Trembling Aspens Herb Farm,
+Creasy's Apple Dabble Farm,
+White Feather Country Store,
+Floralane Produce,
+Franklin Farm Herbals and Market,
+Dixie Orchards,
+Brambleberry Farm,
+Round the Bend Farm,
+Bonnieheath Estate Lavender & Winery,
+Debackere Farms Inc.,
+The Poultry Place,
+19th Ave. Farmers Market,
+f.N. Happy Farm,
+Theadora's Orchard,
+Kent Kreek Berries,
+Berryview Farm,
+Harris Flower Farm,
+Speers Farms Amaranth,
+Orchard Home Farm,
+Johnston's Farm Market,
+Busy Liz's Farm Shop,
+Oaklane Orchard,
+Cheer Farms,
+Delhaven Orchards Ltd.,
+Farmtown Canada,
+Breedon's Maple Syrup,
+Frank E.'s,
+Thiessen Orchards Ltd.,
+Rose Family Farm,
+Sheldon Creek Dairy,
+Abbey Gardens Community Trust,
+Fisherville Greenhouses,
+Foster Family Farm,
+Trillium Ridge Sugarworks,
+Steward's Blueberries,
+Marci Lipman Country,
+Wilson's Fresh Blueberries,
+Talbotville Berry Farm,
+Goldsmith's Orchard Market,
+Serenity Lavender,
+Munro Honey & Meadery,
+Fresh and Tasty Mushrooms,
+South Pond Farms,
+Arrowwood Farm,
+Barrett's Christmas Tree Farm,
+Masse Fruit and Vegetable Farm,
+Berrylicious Fruit Farm,
+Windwood Farms,
+Olkaga Country Market,
+Thompson's Orchard,
+Lake Land Meats & Farm Market,
+Blueberry Knoll Berry Farm,
+Landman Gardens & Bakery,
+Oak Knoll Farms,
+Pine Hill Orchards,
+Greenshire Eco Farms Inc.,
+Mitchdale Farms,
+Sweet Ridge Farms,
+Vandermeer Nursery Ltd.,
+Crunican Orchards,
+Pardo's Berie Farm,
+Top Market Rabbitry,
+Stonefield Garden Centre & Market Ltd.,
+Meadow Lynn Farms,
+Voisin's Maple Products Ltd.,
+Apple Hill Lavender,
+Carron Farms Ltd.,
+Dyment's Farm,
+Miller's Bay Farm,
+Cristan Farms,
+Earthly Delights,
+Graham Creek Farm,
+Ferguson Farms Fresh Produce,
+Strickland's Perennial Farm,
