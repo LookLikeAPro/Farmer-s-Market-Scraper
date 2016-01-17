@@ -1,42 +1,54 @@
 #!/usr/bin/env ruby
-require 'farm_scraper'
-require 'scrapers'
-require 'csv'
+require "bundler/setup"
+require "farm_scraper"
+require "scrapers"
+require "geolocation"
+require "csv"
 
 def write_csv(file, farms)
-	CSV.open(file, 'wb') do |csv|
-	  csv << [
-	  	'name',
-	  	'street',
-		  'city',
-		  'province',
-		  'country',
-		  'address_dump',
-		  'postal_code',
-		  'phone',
-		  'hours',
-		  'link',
-		  'products',
-		  'products_grown',
-		  'products_pick'
+	CSV.open(file, "wb") do |csv|
+		csv << [
+			"name",
+			"street",
+			"city",
+			"province",
+			"country",
+			"address_dump",
+			"postal_code",
+			"phone",
+			"hours",
+			"link",
+			"products",
+			"products_grown",
+			"products_pick",
+			"formatted_address",
+			"street_number",
+			"route",
+			"locality",
+			"administrative_area_level_2",
+			"administrative_area_level_1",
+			"country",
+			"postal_code_prefix",
+			"lat",
+			"lng",
 		]
-	  farms.each do |farm|
-	  	csv << [
-	  		farm['name'],
-	  		farm['street'],
-	  		farm['city'],
-	  		farm['province'],
-	  		farm['country'],
-	  		farm['address_dump'],
-	  		farm['postal_code'],
-	  		farm['phone'],
-	  		farm['hours'],
-	  		farm['link'],
-	  		farm['products'],
-	  		farm['products_grown'],
-	  		farm['products_pick']
-	  	]
-	  end
+		farms.each do |farm|
+			csv << [
+				farm["name"],
+				farm["street"],
+				farm["city"],
+				farm["province"],
+				farm["country"],
+				farm["address_dump"],
+				farm["postal_code"],
+				farm["phone"],
+				farm["hours"],
+				farm["link"],
+				farm["products"],
+				farm["products_grown"],
+				farm["products_pick"]
+			]
+		end
 	end
 end
 
@@ -56,17 +68,21 @@ command = ARGV.shift
 case command
 when "scrape"
 	scraper_name = ARGV.shift
-	file = ARGV.shift || 'data.csv'
+	file = ARGV.shift || "data.csv"
 	case scraper_name
 	when "ontariofarmfresh"
 		ontario_scraper = Scrapers::OntarioFarmFresh.new()
 		ontario_farms = ontario_scraper.run()
-		write_csv('data.csv', ontario_farms)
+		write_csv("data.csv", ontario_farms)
 	else
 		puts "No such scraper"
 	end
-  hist.output_history(days_ago)
+	hist.output_history(days_ago)
+when "geo"
+	file = "data/"+ARGV.shift || "data/data.csv"
+	geolocator = Geolocation::Geolocator.new()
+	geolocator.run(file)
 else
-  puts MSG
+	puts MSG
 end
 
