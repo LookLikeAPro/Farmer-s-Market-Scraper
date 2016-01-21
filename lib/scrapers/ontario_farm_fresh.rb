@@ -3,7 +3,7 @@ require "net/http"
 require 'open-uri'
 
 module Scrapers
-	class OntarioFarmFresh
+	module OntarioFarmFresh
 		def run()
 			links = collect_links()
 			farms = []

@@ -43,6 +43,15 @@ def write_csv(file, farms)
 	end
 end
 
+def write_file(file, data)
+	CSV.open(file, "w") do |csv|
+		csv << data.first.keys
+		data.each do |h|
+			csv << h.values
+		end
+	end
+end
+
 MSG = <<END
 Farm Scraper v#{FarmScraper::VERSION}
 By Jerry Zhou (http://jerryzhou.net/)
@@ -60,15 +69,10 @@ case command
 when "scrape"
 	scraper_name = ARGV.shift
 	file = ARGV.shift || "data.csv"
-	case scraper_name
-	when "ontariofarmfresh"
-		ontario_scraper = Scrapers::OntarioFarmFresh.new()
-		ontario_farms = ontario_scraper.run()
-		write_csv("data.csv", ontario_farms)
-	else
-		puts "No such scraper"
+	farms = Scraper.run(scraper_name)
+	if farms
+		write_file(file, farms)
 	end
-	hist.output_history(days_ago)
 when "geo"
 	file = "data/"+ARGV.shift || "data/data.csv"
 	geolocator = Geolocation::Geolocator.new()
