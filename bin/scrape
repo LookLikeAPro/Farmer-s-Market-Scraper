@@ -10,44 +10,41 @@ def write_csv(file, farms)
 	CSV.open(file, "wb") do |csv|
 		csv << [
 			"name",
-			"street",
-			"city",
-			"province",
-			"country",
-			"address_dump",
-			"postal_code",
-			"phone",
 			"hours",
-			"link",
+			"description",
+			"phone",
+			"email",
+			"website",
 			"products",
-			"products_grown",
-			"products_pick"
+			"route",
+			"locality",
+			"administrative_area_level_2",
+			"administrative_area_level_1",
+			"country",
+			"postal_code",
+			"formatted_address",
+			"lat",
+			"lng"
 		]
 		farms.each do |farm|
 			csv << [
 				farm["name"],
-				farm["street"],
-				farm["city"],
-				farm["province"],
-				farm["country"],
-				farm["address_dump"],
-				farm["postal_code"],
-				farm["phone"],
 				farm["hours"],
-				farm["link"],
+				farm["description"],
+				farm["phone"],
+				farm["email"],
+				farm["website"],
 				farm["products"],
-				farm["products_grown"],
-				farm["products_pick"]
+				farm["route"],
+				farm["locality"],
+				farm["administrative_area_level_2"],
+				farm["administrative_area_level_1"],
+				farm["country"],
+				farm["postal_code"],
+				farm["formatted_address"],
+				farm["lat"],
+				farm["lng"]
 			]
-		end
-	end
-end
-
-def write_file(file, data)
-	CSV.open(file, "w") do |csv|
-		csv << data.first.keys
-		data.each do |h|
-			csv << h.values
 		end
 	end
 end
@@ -71,7 +68,7 @@ when "scrape"
 	file = ARGV.shift || "data.csv"
 	farms = Scraper.run(scraper_name)
 	if farms
-		write_file(file, farms)
+		write_csv(file, farms)
 	end
 when "geo"
 	file = "data/"+ARGV.shift || "data/data.csv"
